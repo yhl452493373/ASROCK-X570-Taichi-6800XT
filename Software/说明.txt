@@ -1,0 +1,4 @@
+AGPMInjector 用于根据自己的显卡生成类似AGPMInjector-iMacPro1,1-RadeonVII.kext的驱动
+diskejectd 需要Xcode并编译，用于忽略有windows动态磁盘时，进Mac提示“无法识别的磁盘“
+OpenCore Configurator 用于编辑oc的配置文件，本efi需要使用ndk的0.5.8格式
+VoodooTSCSync Configurator用于生成类似VoodooTSCSyncAMD-8Cores.kext，也可以直接编辑这个驱动中的Info.plist，把IOCPUNumber改成你的线程数减1即可
