@@ -23,3 +23,7 @@ MacOS 10.15.4
 
 ----
 bios only to do is close csm
+
+----
+
+thanks for https://github.com/dangthaison91/Ryzen-Hackintosh
