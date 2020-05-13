@@ -6,6 +6,8 @@ opencore efi for asrock x570 taichi hackintosh
 
 base on opencore ndk 0.5.9 with config.plist for 0.5.8
 
+MacOS 10.15.4
+
 ----
 + asrock x570 taichi
 + amd ryzen7 3700x
