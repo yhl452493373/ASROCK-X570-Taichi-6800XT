@@ -4,9 +4,11 @@
 
 opencore efi for asrock x570 taichi hackintosh
 
-base on opencore ndk 0.5.9 with config.plist for 0.5.8
+you need to add your own platform data.the product is iMacPro1,1
 
-MacOS 10.15.4
+base on opencore 0.6.0
+
+MacOS 10.15.5
 
 ----
 + asrock x570 taichi
@@ -15,7 +17,7 @@ MacOS 10.15.4
 + amd radeon vii (HIS with Sapphire bios)
 + sata ssd
 + no wifi card (ax200 not work)
-+ intel bluetooth (ax200 internal)
++ intel bluetooth (ax200 internal not work)
 
 ----
 + sleep not work
@@ -23,6 +25,7 @@ MacOS 10.15.4
 
 ----
 bios only to do is close csm
+bios version <= 3.0
 
 ----
 

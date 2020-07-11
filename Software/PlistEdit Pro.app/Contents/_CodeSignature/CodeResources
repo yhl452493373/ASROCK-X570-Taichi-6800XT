@@ -12,73 +12,81 @@
 		<data>
 		FJ7SXLja+AXxZuLYA0xExMuxzOc=
 		</data>
+		<key>Resources/BWKeyBindings.dict</key>
+		<data>
+		zVfnaGNFqJo918rNcTY9WT8wliw=
+		</data>
 		<key>Resources/Base.lproj/AllowableValueView.nib</key>
 		<data>
-		/wxGoPOw9Gg/mLUE0yUusV/XXtA=
+		Q9pqFA/csAlOdMc8S0VOME6T1Zk=
+		</data>
+		<key>Resources/Base.lproj/BWCrashReportUI.nib</key>
+		<data>
+		UHI7El1rjwuKKZVFAX3AHqn4o30=
 		</data>
 		<key>Resources/Base.lproj/BooleanValueView.nib</key>
 		<data>
-		vywBdfpnr0O0WfttlWYlKcO1ZIQ=
+		aT0nZFBJsjYh3FA4XmiT4sOs78E=
 		</data>
 		<key>Resources/Base.lproj/ClassCellView.nib</key>
 		<data>
-		qOpU7k8jY0w32L3NqzeUrzEpcXg=
+		enB0E4Vv+qteB6bcP9sVUMqSeYQ=
 		</data>
 		<key>Resources/Base.lproj/FileBrowserManager.nib</key>
 		<data>
-		KdiUa8q6U+zc1IBO1HmTCaJDkzw=
+		Z97wWWf1s3TN1r0iJ43S3A9Yehc=
 		</data>
 		<key>Resources/Base.lproj/JSONSaveAccessory.nib</key>
 		<data>
-		bS7X6ifuEDQaH34hZ5+n/8VUKaY=
+		/MQQLddzejoqUKTNJpWP2vfDlG8=
 		</data>
 		<key>Resources/Base.lproj/LocalizedKeyCellView.nib</key>
 		<data>
-		RohBqe+K1cGr3nCsjg+mOSEBwak=
+		rAgGd4iEKt6Qqds+9ynp0oZ7qCo=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
-		6c136KMla0hkSXSUqI321TA+OK0=
+		bGlXWDKO2vcZJIsgbIILJYRDtiE=
 		</data>
 		<key>Resources/Base.lproj/PEBinaryPlistViewController.nib</key>
 		<data>
-		Xl0UNW+awYWYBm6lDfVFrFNStQ0=
+		RHpvHqG1rqDVCsfaifNN9Qoql9Y=
 		</data>
 		<key>Resources/Base.lproj/PEBookmarkResourceValuesViewController.nib</key>
 		<data>
-		NaSblybOlLCVtB/AyFKVyURz0a0=
+		RrGodAcG3aPVDzhYghPzvmana8Q=
 		</data>
 		<key>Resources/Base.lproj/PEEditSheetController.nib</key>
 		<data>
-		+4bGXxgwF/Ad/BmUWeFcwC1xi7I=
+		WZCCvIjYfR4IPU3KKltKQFGgsYI=
 		</data>
 		<key>Resources/Base.lproj/PEFileBrowser.nib</key>
 		<data>
-		eePsAFbpirLo8SLG9zoy50Zq1uE=
+		rzdCr+mbsiWndUDuS2rIaDV6DrM=
 		</data>
 		<key>Resources/Base.lproj/PEPlistOutlineView.nib</key>
 		<data>
-		JS+TQiGLBAQ6d+am4EyjS25FyR4=
+		Vwt6C/yEajggRqmWRajWEj5tbGk=
 		</data>
 		<key>Resources/Base.lproj/PEStructureDefinitionDocument.nib</key>
 		<data>
-		YjAENrQJZAMrzKAf/PIapI9V3zw=
+		1OsTaUG3jRmMBKyw7IRyKMiQTVc=
 		</data>
 		<key>Resources/Base.lproj/PlainKeyCellView.nib</key>
 		<data>
-		Na+jc+HM4aH2wsiWdvftDjmpEfI=
+		4LyHH7zKZ8Vgh16WpW4zCggcyP4=
 		</data>
 		<key>Resources/Base.lproj/PlistDocument.nib</key>
 		<data>
-		2NTM5OEScKItO7KMy3ws6Tgq2ew=
+		WY3ShuqimY+EzDJeYVP5nm559sk=
 		</data>
 		<key>Resources/Base.lproj/Preferences.nib</key>
 		<data>
-		s3DM8qj/EVaUd4LRFu0KRCcKWUc=
+		CspSFmgksQNu6pNatu1nqN+uo64=
 		</data>
 		<key>Resources/Base.lproj/TextValueView.nib</key>
 		<data>
-		Eylo3Gkf/NgfI+Oxe+pI564rJKM=
+		y+7M5EBNfivlejYLZACgwLYy8Dc=
 		</data>
 		<key>Resources/Copy.tiff</key>
 		<data>
@@ -98,7 +106,7 @@
 		</data>
 		<key>Resources/Defaults.plist</key>
 		<data>
-		xI2BJSt1gdx99mzpZFzawDfvLVk=
+		G2SODYiul6obZ6pCsvTBMfNgb9M=
 		</data>
 		<key>Resources/Delete.tiff</key>
 		<data>
@@ -150,7 +158,7 @@
 		</data>
 		<key>Resources/PEPlistOutlineTouchBar.nib</key>
 		<data>
-		ef43bWei3EYod+k4hmmQ/k+M2Lk=
+		kLa82xnwoye/ENm4CsIGaCOONNo=
 		</data>
 		<key>Resources/PEStructureDefinitionDocument.toolbar</key>
 		<data>
@@ -176,7 +184,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tklpx2dtc10LPuX1yhDwyezfcUI=
+			o0AenuLdK5Ri0HivKC1vpg+7c1k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -550,7 +558,7 @@
 		</data>
 		<key>Resources/ValueViewers.plist</key>
 		<data>
-		UOSyAWnZGE72AWARlXYVzhkKSRw=
+		pd8ylkhpSir/wPyC1MEolOvnjsI=
 		</data>
 		<key>Resources/add_button.tiff</key>
 		<data>
@@ -650,7 +658,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3I/fPTCXGy/YICOK57GZPxWsa3U=
+			zOyuDr7pYQhNJO5LL+v1YhKlTHM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -677,7 +685,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dRaYJPDAS2vwvaHfTg+oTDUNoYU=
+			HM6OS2803f94HntojtzMuyKckWs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -754,6 +762,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/BWCrashReportUI.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AKYswjSpEoQ27x2n9DDQpTU0cWI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/BooleanValueView.strings</key>
 		<dict>
 			<key>hash</key>
@@ -821,7 +838,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xxv0JdoGLgWXHOByh25rO8o2TGA=
+			6y+p6XS++wORnnInrfCS9XHzenI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -839,7 +856,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dfz5wVJD4+LvD3eFLKXcRlx8ma0=
+			FvMzP6Hv5Bwkow0DGC9FbQpnQ2o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -884,7 +901,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p+3ITI3mzyb1rCagvOTVIitzRDI=
+			wkaq02RVB4j5ROl9rQMKWZH5EvU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -979,7 +996,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			vwcLVwSN9gzTe5k27tAr+cUO+F0=
+			mS2WLUCsR3Kdck8FVqvuOgad1Vs=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.fatcatsoftware.BWAppKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -988,7 +1005,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Hvjowj7GVaImCrSDE301/eVvf8M=
+			zLlaJtaHEpkCYongdi4SPpW0eu4=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.fatcatsoftware.BWAppleEvents" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -997,7 +1014,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RY2kSrz6q2Rt/8IEoYGprmP5vUY=
+			Ph+Yn1NWdIMYZ4u2z7uV49jMl+Y=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.fatcatsoftware.BWFileWatching" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -1006,43 +1023,25 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			BXaGkLzir4IgYhq7rdW3X/ozmLw=
+			jHKP6ZhXSxEYxQ16qtp7oxh0yeE=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.fatcatsoftware.BWFoundation" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/BWHexUtils.framework</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			Yxe5AM1MTs9efvNwxgak/r6O6fk=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.fatcatsoftware.BWHexUtils" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
 		</dict>
 		<key>Frameworks/BWRegistration.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			CiDG+A+P7wZswlm5XK1lWcGJmzg=
+			SZBnklPm/jvBGpq4OslIPyVMpp0=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.fatcatsoftware.BWRegistration" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/HockeySDK.framework</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			J+xfEwe8TQmYrTvOr3HKxFSt/ZU=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "net.hockeyapp.sdk.mac" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
 		</dict>
 		<key>Frameworks/SBJson.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			h+wvCw7xXUEx8mP8X+RhZ+B1NL0=
+			z7IWIIMcwLXRhedUQrYpfZDf6jg=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.brautaset.SBJson" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -1051,43 +1050,25 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			1Z9A+EHMogV+RSkjuVN88VKIyy4=
+			R7bqn1UD+p3cs+yu9uAHvUugsIE=
 			</data>
 			<key>requirement</key>
-			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/libswiftAppKit.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			PW8b8414w3GL/VTE0ELdv610B1E=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftAppKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
+			<string>identifier "org.sparkle-project.Sparkle" and certificate root = H"1430071242a64f17372572c4db78982f856eafbd"</string>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			BeELDtvTZg7J2Ft/ZUXG+/t6eIQ=
+			6oz7zTlAGcEbMrYyK1IgE9s8AhQ=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCore" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/libswiftCoreData.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			64PF+S1FTiwEhtNG3zIgs1R/a38=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreData" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
 		</dict>
 		<key>Frameworks/libswiftCoreFoundation.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			f1h59i/bd7xD9eryjeE/BbDegzg=
+			MvlminpSlli/vZPO0ZfQoTDSo1M=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreFoundation" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -1096,25 +1077,16 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			6qtKP5TQU1nc/Ut674WcBUVQSD4=
+			KdG1tMEo039drXOAy2Gn5KF1Sxk=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreGraphics" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/libswiftCoreImage.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			QeJ/gW0Rxvl33SWbOXNa2kRY1yc=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreImage" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
 		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			my+HxKCnHr7BIUjUib0KhUGhklU=
+			vkHnQ1IV+nPIrb8WtTHBYRm8v8w=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftDarwin" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -1123,7 +1095,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			loOLICcLZht3/RyIFhdW1QUBL7E=
+			21ajTJotj0h3BvtxS/wDaPVrZ0o=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftDispatch" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -1132,7 +1104,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			IEmIdaWl1iDTgqqKk+IfI9PdNPk=
+			eFDBOlR+5sqHlFqZ281K7d2EPAU=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftFoundation" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -1141,61 +1113,25 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			udTP9OKoAWOIxEbHKUBskxGQKP4=
+			dtC3KPMVnwZ0d2L+FR+BNLD4cvg=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftIOKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/libswiftMetal.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			sTZ9gbyF3riTz1SiqYiLQr+uAjI=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftMetal" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
 		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			IPpFhw0/TM522PCyCT+ko2bvMTo=
+			MN0OX0aIysaeZolS2gwfsZhaDzc=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftObjectiveC" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/libswiftQuartzCore.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			ghbZAPog47QTp5/UWjnaI2UYWQg=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftQuartzCore" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/libswiftXPC.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			MFfO0GawesO1NzbbvHROCZxqRiI=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftXPC" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
-		</dict>
-		<key>Frameworks/libswiftos.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			byksmi5eS8KD7ByWQe4hN9hO7Nw=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftos" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
 		</dict>
 		<key>MacOS/pledit</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			DK/PlBYqhLy9sGqz6bzy9SK3lIY=
+			JnGGz7aD1MupP9ih3DczuhK3rBs=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.mac.bwebster.pledit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8NQ43ND65V")</string>
@@ -1214,123 +1150,137 @@
 			ugcBMg4cTslx6tl6+QhG1lkl3Ze+tuv2GslWLc2SsTs=
 			</data>
 		</dict>
+		<key>Resources/BWKeyBindings.dict</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			07foYAijvB9ssBYjLNkUU7dh4XK53saRpIQNyXWBtJY=
+			</data>
+		</dict>
 		<key>Resources/Base.lproj/AllowableValueView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RTUDxvqpXJfMTv8AkVYdTeOt+eveT2oP9RrtNBKvh+A=
+			WILlgotDeXzGyL8oKYkPovAYaPlJyRgovmUBqrRS9rA=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/BWCrashReportUI.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			o5cprxQLKn0AHN5HIhznrMyMD7rvyKqNkMsZ+lWozNw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/BooleanValueView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VdG6jhgWULYpRRv/BuOJYrnzhqB2qO1UnDlmTCkCaQY=
+			JQ2ViFBVbIF8b4Ij9d+LWcjZ8kLwo0iAwbqjx50XJr0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/ClassCellView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			byRM1c5dF4n1KLdNfNK2Gz1QaXe8P9E5hhFuyUoxBpY=
+			7ldKwyAiogonBrZSuxHfIcfl78W4fvjdqwnu8MrwD6s=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/FileBrowserManager.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T6l/8FMydyX/dV2J9oUk4HHrPCdHv1t64aoK23olChs=
+			CIUV7NBH97R5qwxwdfxKRddWDIv5uUjCh40xzJfAT+8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/JSONSaveAccessory.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e3hovHlKEw20L2yJkdliUzq/eF/Mqhx03Gb65HFBDQ4=
+			B64rzoaoCc9x5cI7hxGv5wL7PJDs/LyPANRLJTvE4gE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/LocalizedKeyCellView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ekyUMmpnnjmYZ2Ko5k8vYdkPIjDV3kYtc8z1UtMRbMs=
+			sYrV/1h5eJtc1W6zkL5A32pPVIwb/tWvXHLADxblqJ4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ChLF+uelmB7vz1bGOrPVCDVFfKlEmjos6Kw7E+y1RaA=
+			D1+Fo1oG3pSoCfVbPyTZjeEQ75LnGFSMsd/6eWRtd/k=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PEBinaryPlistViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zieNFVa/8/XTkzNbouZOO6kz/icPhjsZ2hY2ULgyT9k=
+			m3APFVsduFs0MeJzwlv145mEwULSqi2BXzxCliCh6IM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PEBookmarkResourceValuesViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fp73o4Bq9HQh3bClg9DwyVNlLdqUbErotItf1UaePe8=
+			csSQPQyUmaHVUc6MoqkKk9pg1FwYyNRttsuq8lAJB5E=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PEEditSheetController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IMFfnxn6tC3OZaZWPH59ufN7rmaT4yLScsCGNbhMKC4=
+			PpFhmY2iSIl7cOVUcnvVfwqo4xvRTefWZ4y8bJCZCNg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PEFileBrowser.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			43/e/eBf1VanHi8W9CpcmhefHeeByCg0Df/CWBtNHGo=
+			tG6lxaLsH3ys+yF5XU5W1uKTgkUrZDvkuNEuQe2D5QQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PEPlistOutlineView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/n9mpbYmvnHyVRAeflI7HcngRFMoZoSZB1MQ0cFa5lE=
+			EqwlkV8ugMN2AzVL5XFgyOufpy5FwL9ZYTam/c/GmX0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PEStructureDefinitionDocument.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5PZq3S/TDG1JBe+pj9bs4M0U96eKvUR1iQLQurVJgM8=
+			8yWYDrwo9miG9d76aeRbOlA9TWafIv88V0CwTIgjhJ8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PlainKeyCellView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fhajKe+eLJ5W75qy+n/LM6KYUT5YJk5zlS3yURzk6yI=
+			yi6JnJGEx0Qu8t6spwIeHvbOQncM616iTWE1zspyTmA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/PlistDocument.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FMX/Ziw2Mi66e6gWt+Qfld7u8idtAW81A6E/iuq6m4I=
+			uW3Cm8TMlZWEQlECdHUh7SsorpKKaz+xA9hBtye8Rvg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Preferences.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ug40I9DJMIOgR+FNrmiu+9kYbcT5tbrIs1mZnHx97CU=
+			mt2SZnruRYtxe3Sdu86f8cOOhk6i8/UmvjECwUqCUNw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/TextValueView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gUvgzJLrL82B8zdfiSEjrYMMUpe3/1Q7HzEYdGIXFxw=
+			DOtyufExfgoxTUdfC67gLMsYfFbB0ded0cZShneQsQk=
 			</data>
 		</dict>
 		<key>Resources/Copy.tiff</key>
@@ -1365,7 +1315,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YHJJHbFMdymKx7qxlLfchKx+eQBDsc6H+j0p0Hd+jQo=
+			Eu0b4rT9dF8oV5UysM45fg1WY/RX+PzRbCOj6o12s3o=
 			</data>
 		</dict>
 		<key>Resources/Delete.tiff</key>
@@ -1456,7 +1406,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KuQI9KP2LlYUDw2lDWARZkSzv8iTjF1yyseotfqDLMk=
+			/ww2MpBsDs5qxdCT6NvO4Sm3Uondz8l1x/uU2WAnlFI=
 			</data>
 		</dict>
 		<key>Resources/PEStructureDefinitionDocument.toolbar</key>
@@ -1498,7 +1448,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f4egl1efR2EA6dF0drtXAV6nL4zG/zNwAhulwELKhO8=
+			jTr4i/9JAO1JpES+/ftgOJKc9x418Olfkr7hBqyDJm8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1913,7 +1863,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I50CL2ogYBchvpyqJrVqux5rOGoBV9quDgbC9jR72Cc=
+			nsgN5c55IMHgKQZSs7SZkJi6UojZbs+XhgReGEczYTg=
 			</data>
 		</dict>
 		<key>Resources/add_button.tiff</key>
@@ -2017,7 +1967,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Op+DTTpqPUNw3FhhnFhJ/2hhRxU/ZeLOjpeyKqCNvuY=
+			n36Vuo1qxm0HL1XJL4RfPRuigJZ2OQ6VmIjc+QzxTbk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2044,7 +1994,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KKLHWF2WG5xLYv3NhPSzPQrmOvJOw68qV0LGyWavkOc=
+			743gTM1oGkTh6oX2zit9W2DCUEeVSTP+awCPRE0IEMI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2121,6 +2071,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/BWCrashReportUI.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eFrvSgciUp4mmTmTFnIuDjo/OdB8pSODl/+ad3cRw0Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/BooleanValueView.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -2188,7 +2147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1912OG1EEcA4CC6SxxaUelg+UVoDaDJnUKCOczx4i0g=
+			LMus/aYwU6BQxxG3/ZY1hHojGCO6Zxh/Sj7aPS+VXy0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2206,7 +2165,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B9epRcCFkxbE4ebp4sqpDexzGknvKFICn2aiC6kEMtc=
+			TK4NYTFfnAy6U1eDg8fL312ylGQTUvauhtZ+lrn0AMc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2251,7 +2210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9FCO4+Chd3BQ+z+07wUZWIjQbBSCu2tOot99bghdULc=
+			wOR3tXhuoYO2VyFyYoOYD4IjKIT/CWM4EfjsJn9fZaQ=
 			</data>
 			<key>optional</key>
 			<true/>

@@ -26,11 +26,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		+Q0Ch9I+VfUYn07IVmE+jWkZ5hE=
+		PSTvEwuL9mwQtqoFbLSsD4SA5sI=
 		</data>
 		<key>Resources/Audio/Codecs.plist</key>
 		<data>
-		uFvgqBAZcNi7vomxkZCFWj4ajrc=
+		cb7HqVD3LwIHsAyGrEAS8+vVrfo=
 		</data>
 		<key>Resources/Audio/Controllers.plist</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
-		yrIHhmugrq0DyXHEkb25IxZVP8o=
+		NRr7ZPzkjE5vr2ojdGeirWdo9NY=
 		</data>
 		<key>Resources/Clover/config_patches.plist</key>
 		<data>
@@ -1150,7 +1150,7 @@
 		</data>
 		<key>Resources/PCI/pci.ids</key>
 		<data>
-		ASbqVD6jc7ocdJd3uTW7NyijDws=
+		1NjEBIadYKwlGI5a4MI3i4RtMK0=
 		</data>
 		<key>Resources/USB/USBInjectAll-Info.plist</key>
 		<data>
@@ -1189,7 +1189,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vQRbYDbX+JMZAnJsvss6iY9UZWA=
+			s2MlQxGCYpDkztQWrqyN0cqpAF0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1328,22 +1328,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+Q0Ch9I+VfUYn07IVmE+jWkZ5hE=
+			PSTvEwuL9mwQtqoFbLSsD4SA5sI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HEAOIy9kiyeXgZ5UnBX+32235Le3D0KYlHLkAuEZr4g=
+			YhIr/tLhIYGJ5U90dGS9SxVnw9Mps5VJkx/wGtKLY5g=
 			</data>
 		</dict>
 		<key>Resources/Audio/Codecs.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uFvgqBAZcNi7vomxkZCFWj4ajrc=
+			cb7HqVD3LwIHsAyGrEAS8+vVrfo=
 			</data>
 			<key>hash2</key>
 			<data>
-			WTnapAfhmpzS61OeUv+DCAFyxtTexluRTtOSSR6W1bY=
+			HhUCHad4kmvK3l4kbS8CsxdyS1ltmG9npwLdIYuuTGA=
 			</data>
 		</dict>
 		<key>Resources/Audio/Controllers.plist</key>
@@ -1427,11 +1427,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yrIHhmugrq0DyXHEkb25IxZVP8o=
+			NRr7ZPzkjE5vr2ojdGeirWdo9NY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mC/SeLu5Q+dQjUspeTb0sOR2zC0A4POzFw0WSta8i2k=
+			VJ7xOzy1nMQw7xAGdEc4Do3VOLCfiISBnh7+QO+rsUk=
 			</data>
 		</dict>
 		<key>Resources/Clover/config_patches.plist</key>
@@ -4137,11 +4137,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ASbqVD6jc7ocdJd3uTW7NyijDws=
+			1NjEBIadYKwlGI5a4MI3i4RtMK0=
 			</data>
 			<key>hash2</key>
 			<data>
-			TJkYKJKnPIlWo54ox4k/z7oiHWoDDIK5lapc3fAH2NI=
+			Dpk6EoIpooeSJYjztubq32LIJOjEOtQ/5ezvsBumRjg=
 			</data>
 		</dict>
 		<key>Resources/USB/USBInjectAll-Info.plist</key>
@@ -4227,11 +4227,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vQRbYDbX+JMZAnJsvss6iY9UZWA=
+			s2MlQxGCYpDkztQWrqyN0cqpAF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6H/HLPeuXI2tb3vf30I3kCUqse1ZES8mfUJe0vHkCsM=
+			cnqU40yqMqrv3hti80wYEx6fN653+tldGjF5+OohAow=
 			</data>
 			<key>optional</key>
 			<true/>

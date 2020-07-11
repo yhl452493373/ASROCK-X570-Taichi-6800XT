@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18A389</string>
+	<string>19E266</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDocumentTypes</key>
@@ -141,7 +141,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.9</string>
+	<string>1.9.2</string>
 	<key>CFBundleSignature</key>
 	<string>pEDT</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -162,21 +162,21 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>899</string>
+	<string>908</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>10A254a</string>
+	<string>11E146</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>18A384</string>
+	<string>19E258</string>
 	<key>DTSDKName</key>
-	<string>macosx10.14</string>
+	<string>macosx10.15</string>
 	<key>DTXcode</key>
-	<string>1000</string>
+	<string>1140</string>
 	<key>DTXcodeBuild</key>
-	<string>10A254a</string>
+	<string>11E146</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.developer-tools</string>
 	<key>LSMinimumSystemVersion</key>
@@ -184,11 +184,11 @@
 	<key>NSAppleScriptEnabled</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>PlistEdit Pro 1.9, Copyright 2004-2018 Fat Cat Software.</string>
+	<string>PlistEdit Pro 1.9.2, Copyright 2004-2018 Fat Cat Software.</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
-	<string>BITCrashExceptionApplication</string>
+	<string>NSApplication</string>
 	<key>NSServices</key>
 	<array>
 		<dict>

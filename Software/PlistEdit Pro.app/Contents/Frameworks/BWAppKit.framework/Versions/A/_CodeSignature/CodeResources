@@ -6,15 +6,15 @@
 	<dict>
 		<key>Resources/Base.lproj/BWNameEntryPanel.nib</key>
 		<data>
-		KXwu5YfyXFiBic4kdUlEdz8ToNY=
+		xLQqOZ/jkgJ9j/fpDb7faOGg2Os=
 		</data>
 		<key>Resources/Base.lproj/BWProgress.nib</key>
 		<data>
-		Ux4BOtB+HjsPqaVzWDSdiK5+Ut4=
+		nhvpR8wH7Is4FepqZ13sSwLAm8w=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		jyKbbQy/30N6tR89JigLbcTWSKY=
+		Go/LJZdC5Yg+FIeLFkYXai4Bh2Y=
 		</data>
 		<key>Resources/de.lproj/BWNameEntryPanel.strings</key>
 		<dict>
@@ -59,33 +59,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KXwu5YfyXFiBic4kdUlEdz8ToNY=
+			xLQqOZ/jkgJ9j/fpDb7faOGg2Os=
 			</data>
 			<key>hash2</key>
 			<data>
-			1ul6LvaL/oP+93o0hqT0FodSaEryKvmUiahZxGd6ZgM=
+			1AQTV26NSiuwGePkk6oemDdu7CrgNet2VHLe6r3GSxw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/BWProgress.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ux4BOtB+HjsPqaVzWDSdiK5+Ut4=
+			nhvpR8wH7Is4FepqZ13sSwLAm8w=
 			</data>
 			<key>hash2</key>
 			<data>
-			0jpFoB2PQ4Nz4nelNZLyacT+yDjv/DQxpekbTPOkbT4=
+			/E1J+WSECbY1QqnN2BVcIqrDW5nAmSObJDDuyQOUjTU=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jyKbbQy/30N6tR89JigLbcTWSKY=
+			Go/LJZdC5Yg+FIeLFkYXai4Bh2Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			5GZkXuLcJxSWe/ORyHuvVT+zhDwds3esIJtyqJLsWvY=
+			E8laWjbAQOat2rdGbkjK3u24PGdBt+XuYCsDE0ADjsA=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/BWNameEntryPanel.strings</key>

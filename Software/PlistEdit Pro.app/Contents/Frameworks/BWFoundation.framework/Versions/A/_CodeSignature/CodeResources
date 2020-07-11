@@ -6,8 +6,35 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		Y3Vco9GjSlf51C7e3+YIguh+2nQ=
+		pbxGqVBO5sdgrSpaat6gM4PICXI=
 		</data>
+		<key>Resources/de.lproj/HexUtils.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			03SprY+rLreWHUXyvFntqQo8UqU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/HexUtils.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c+/0L0nUTG1+y2lcwxqIu5xkEEM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m3pu4z7Yo44+Ih+yunkAJL4kzNQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -15,12 +42,51 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y3Vco9GjSlf51C7e3+YIguh+2nQ=
+			pbxGqVBO5sdgrSpaat6gM4PICXI=
 			</data>
 			<key>hash2</key>
 			<data>
-			41jthOcjserrcsXzqQONVdNX/diqbkcDjEjuA0qi9Ng=
+			UDMtaLBIutgf/SojR2j5Eco/S+GgMBYAwcBtEIV7Ijw=
 			</data>
+		</dict>
+		<key>Resources/de.lproj/HexUtils.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			03SprY+rLreWHUXyvFntqQo8UqU=
+			</data>
+			<key>hash2</key>
+			<data>
+			fNgRibcimVHZv1GVJWl42thJtn/tN2p45sic6cqvSKo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/HexUtils.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c+/0L0nUTG1+y2lcwxqIu5xkEEM=
+			</data>
+			<key>hash2</key>
+			<data>
+			fkUcUQ7HqCTcQgrnaMUpiqAsjj5zzkBbBJ0fHEDz8P0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m3pu4z7Yo44+Ih+yunkAJL4kzNQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			shUoGqBQjNNn5YJGCfOAUrHAsDoSjMb/2bbZG3h7SX0=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>

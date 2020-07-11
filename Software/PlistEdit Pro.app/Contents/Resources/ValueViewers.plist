@@ -370,6 +370,8 @@
 				<dict>
 					<key>format</key>
 					<string>#,##0.00;0;#,##0.00</string>
+					<key>storageSizeMode</key>
+					<integer>0</integer>
 				</dict>
 			</dict>
 			<key>identifier</key>
@@ -377,7 +379,36 @@
 			<key>isDefault</key>
 			<false/>
 			<key>name</key>
-			<string>Storage Size</string>
+			<string>Byte Count (1 KB = 1,024 bytes)</string>
+			<key>nibName</key>
+			<string>TextValueView</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>class</key>
+		<string>PEValueViewer</string>
+		<key>properties</key>
+		<dict>
+			<key>dataType</key>
+			<integer>5</integer>
+			<key>formatterInfo</key>
+			<dict>
+				<key>class</key>
+				<string>PEStorageSizeFormatter</string>
+				<key>properties</key>
+				<dict>
+					<key>format</key>
+					<string>#,##0.00;0;#,##0.00</string>
+					<key>storageSizeMode</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>identifier</key>
+			<string>com.mac.bwebster.storagesize-1000</string>
+			<key>isDefault</key>
+			<false/>
+			<key>name</key>
+			<string>Byte Count (1 KB = 1,000 bytes)</string>
 			<key>nibName</key>
 			<string>TextValueView</string>
 		</dict>

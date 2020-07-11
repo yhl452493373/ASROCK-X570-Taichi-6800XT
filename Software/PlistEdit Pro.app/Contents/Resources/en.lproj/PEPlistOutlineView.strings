@@ -17,11 +17,17 @@
 /* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "GS9-6M-RsJ"; */
 "GS9-6M-RsJ.title" = "<<do not localize>>";
 
+/* Class = "NSMenuItem"; title = "Swift Literal"; ObjectID = "Gv2-bi-9Gg"; */
+"Gv2-bi-9Gg.title" = "Swift Literal";
+
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "PqG-PR-Gcv"; */
 "PqG-PR-Gcv.title" = "Copy";
 
 /* Class = "NSMenuItem"; title = "Paste As Child"; ObjectID = "R02-72-tOd"; */
 "R02-72-tOd.title" = "Paste As Child";
+
+/* Class = "NSMenuItem"; title = "Objective-C Literal"; ObjectID = "TIC-7Z-gi7"; */
+"TIC-7Z-gi7.title" = "Objective-C Literal";
 
 /* Class = "NSMenuItem"; title = "<<do not localize>>"; ObjectID = "Tdb-rn-4nj"; */
 "Tdb-rn-4nj.title" = "<<do not localize>>";
@@ -31,6 +37,9 @@
 
 /* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "Vkz-03-Q0X"; */
 "Vkz-03-Q0X.headerCell.title" = "Key";
+
+/* Class = "NSMenuItem"; title = "Copy As"; ObjectID = "YC9-z5-O7y"; */
+"YC9-z5-O7y.title" = "Copy As";
 
 /* Class = "NSMenuItem"; title = "New Child"; ObjectID = "b3c-2o-Yrs"; */
 "b3c-2o-Yrs.title" = "New Child";
@@ -64,6 +73,9 @@
 
 /* Class = "NSMenuItem"; title = "View By Subkey"; ObjectID = "i5L-c5-T4e"; */
 "i5L-c5-T4e.title" = "View By Subkey";
+
+/* Class = "NSMenu"; title = "Copy As"; ObjectID = "j6g-R9-faL"; */
+"j6g-R9-faL.title" = "Copy As";
 
 /* Class = "NSMenuItem"; title = "Sort Values"; ObjectID = "kC0-Fm-gVK"; */
 "kC0-Fm-gVK.title" = "Sort Values";

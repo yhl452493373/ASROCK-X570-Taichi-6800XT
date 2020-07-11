@@ -380,6 +380,15 @@
 /* Class = "NSMenuItem"; title = "View As"; ObjectID = "3XX-ta-eUj"; */
 "3XX-ta-eUj.title" = "Anzeigen als";
 
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "4en-kA-aM1"; */
+"4en-kA-aM1.title" = "Zoomen";
+
+/* Class = "NSMenuItem"; title = "Copy As"; ObjectID = "6hZ-6O-OKm"; */
+"6hZ-6O-OKm.title" = "Kopieren als";
+
+/* Class = "NSMenu"; title = "Copy As"; ObjectID = "7Ua-CY-QHI"; */
+"7Ua-CY-QHI.title" = "Kopieren als";
+
 /* Class = "NSMenuItem"; title = "Replace and Find Next"; ObjectID = "9Ie-mG-mc8"; */
 "9Ie-mG-mc8.title" = "Ersetzen & weitersuchen";
 
@@ -389,8 +398,17 @@
 /* Class = "NSMenu"; title = "Find"; ObjectID = "CeY-8w-Vfr"; */
 "CeY-8w-Vfr.title" = "Suchen";
 
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "MB0-Wt-BGk"; */
+"MB0-Wt-BGk.title" = "Im Dock ablegen";
+
+/* Class = "NSMenuItem"; title = "Objective-C Literal"; ObjectID = "Mvs-Av-vbr"; */
+"Mvs-Av-vbr.title" = "Objective-C Literal";
+
 /* Class = "NSMenuItem"; title = "View By Subkey"; ObjectID = "SGT-Jc-jK8"; */
 "SGT-Jc-jK8.title" = "Nach Unterschlüssel anzeigen";
+
+/* Class = "NSMenuItem"; title = "Swift Literal"; ObjectID = "QxE-jA-paW"; */
+"QxE-jA-paW.title" = "Swift Literal";
 
 /* Class = "NSMenuItem"; title = "Replace All"; ObjectID = "XfK-3R-qGh"; */
 "XfK-3R-qGh.title" = "Zeile auswählen…";

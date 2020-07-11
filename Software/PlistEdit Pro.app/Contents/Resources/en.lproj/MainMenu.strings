@@ -1,15 +1,6 @@
 
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
-"5.title" = "Bring All to Front";
-
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
 "19.title" = "Window";
-
-/* Class = "NSMenuItem"; title = "Minimize Window"; ObjectID = "23"; */
-"23.title" = "Minimize Window";
-
-/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
-"24.title" = "Window";
 
 /* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
 "29.title" = "MainMenu";
@@ -239,9 +230,6 @@
 /* Class = "NSMenuItem"; title = "Sort All Values"; ObjectID = "439"; */
 "439.title" = "Sort All Values";
 
-/* Class = "NSMenuItem"; title = "Zoom Window"; ObjectID = "443"; */
-"443.title" = "Zoom Window";
-
 /* Class = "NSMenuItem"; title = "Purchase PlistEdit Pro…"; ObjectID = "445"; */
 "445.title" = "Purchase PlistEdit Pro…";
 
@@ -253,9 +241,6 @@
 
 /* Class = "NSMenuItem"; title = "Sync"; ObjectID = "455"; */
 "455.title" = "Sync";
-
-/* Class = "NSMenuItem"; title = "Open Help In Browser"; ObjectID = "478"; */
-"478.title" = "Open Help In Browser";
 
 /* Class = "NSMenuItem"; title = "Visit The PlistEdit Pro Website"; ObjectID = "487"; */
 "487.title" = "Visit The PlistEdit Pro Website";
@@ -380,6 +365,15 @@
 /* Class = "NSMenuItem"; title = "View As"; ObjectID = "3XX-ta-eUj"; */
 "3XX-ta-eUj.title" = "View As";
 
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "4en-kA-aM1"; */
+"4en-kA-aM1.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Copy As"; ObjectID = "6hZ-6O-OKm"; */
+"6hZ-6O-OKm.title" = "Copy As";
+
+/* Class = "NSMenu"; title = "Copy As"; ObjectID = "7Ua-CY-QHI"; */
+"7Ua-CY-QHI.title" = "Copy As";
+
 /* Class = "NSMenuItem"; title = "Replace and Find Next"; ObjectID = "9Ie-mG-mc8"; */
 "9Ie-mG-mc8.title" = "Replace and Find Next";
 
@@ -388,6 +382,18 @@
 
 /* Class = "NSMenu"; title = "Find"; ObjectID = "CeY-8w-Vfr"; */
 "CeY-8w-Vfr.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "MB0-Wt-BGk"; */
+"MB0-Wt-BGk.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Objective-C Literal"; ObjectID = "Mvs-Av-vbr"; */
+"Mvs-Av-vbr.title" = "Objective-C Literal";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Mvv-rT-X19"; */
+"Mvv-rT-X19.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Swift Literal"; ObjectID = "QxE-jA-paW"; */
+"QxE-jA-paW.title" = "Swift Literal";
 
 /* Class = "NSMenuItem"; title = "View By Subkey"; ObjectID = "SGT-Jc-jK8"; */
 "SGT-Jc-jK8.title" = "View By Subkey";
@@ -404,8 +410,20 @@
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "e8K-QJ-Bfq"; */
 "e8K-QJ-Bfq.title" = "Jump to Selection";
 
+/* Class = "NSMenuItem"; title = "Trigger Crash…"; ObjectID = "fi6-rF-42w"; */
+"fi6-rF-42w.title" = "Trigger Crash…";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "fuh-Lk-707"; */
+"fuh-Lk-707.title" = "Bring All to Front";
+
 /* Class = "NSMenu"; title = "View As"; ObjectID = "ggY-f4-Kb2"; */
 "ggY-f4-Kb2.title" = "View As";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "n7M-Q8-sKR"; */
+"n7M-Q8-sKR.title" = "Enter Full Screen";
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "nFX-nE-o3N"; */
+"nFX-nE-o3N.title" = "Debug";
 
 /* Class = "NSMenuItem"; title = "Find…"; ObjectID = "p9Q-Sf-81Y"; */
 "p9Q-Sf-81Y.title" = "Find…";
@@ -418,3 +436,6 @@
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "zuW-MK-j3m"; */
 "zuW-MK-j3m.title" = "Find Previous";
+
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "zvi-km-NTu"; */
+"zvi-km-NTu.title" = "Debug";

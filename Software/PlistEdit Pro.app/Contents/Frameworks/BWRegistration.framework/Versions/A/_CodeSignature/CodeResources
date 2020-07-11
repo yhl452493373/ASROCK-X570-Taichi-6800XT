@@ -6,27 +6,27 @@
 	<dict>
 		<key>Resources/BWPurchaseButtonController.nib</key>
 		<data>
-		MFt7/6nP3CRvznCHtUMuSyZyA5k=
+		VnamlwD/2XbLmvtYxLpml6eokME=
 		</data>
 		<key>Resources/Base.lproj/BWRegistrationViewController.nib</key>
 		<data>
-		iyXOCsWgYosw8rj25cMCQSfYkSA=
+		sQNKT70ts8oFvr6DPxQ56h4KKck=
 		</data>
 		<key>Resources/Base.lproj/BWRegistrationWindowController.nib</key>
 		<data>
-		n9iFXOwQ/Z+2N/MqeqSPys91XMI=
+		DVH43vbA9ESG2TMqTQBsp++Wvkc=
 		</data>
 		<key>Resources/Base.lproj/BWStoreViewController.nib</key>
 		<data>
-		uXiMbs3hZwJPXZmTdSD8Ebdmml0=
+		WQXa/kNcAQi9RFTpd7nmqXVx+dA=
 		</data>
 		<key>Resources/Base.lproj/EmbeddedStoreWindow.nib</key>
 		<data>
-		SJVooeQvUXuR7lWjAV5iMRs5F4s=
+		dnK8HFvUqaVIMVVfjfr4wdlOcao=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		K1+69NUShZK7h6bptcuksW17VMA=
+		8y/z3ht+R+BTeqCzoyCz65amDVo=
 		</data>
 		<key>Resources/de.lproj/BWRegistrationViewController.strings</key>
 		<dict>
@@ -107,66 +107,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFt7/6nP3CRvznCHtUMuSyZyA5k=
+			VnamlwD/2XbLmvtYxLpml6eokME=
 			</data>
 			<key>hash2</key>
 			<data>
-			grWhUWvuKMlEOsEPr6sM3RYPDyi3i7ZfAj2mhEblspg=
+			9uiiYO24Ow/VCJ6KVfU/+tMiVl++ZsyhP13+5Le3uMM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/BWRegistrationViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iyXOCsWgYosw8rj25cMCQSfYkSA=
+			sQNKT70ts8oFvr6DPxQ56h4KKck=
 			</data>
 			<key>hash2</key>
 			<data>
-			9cdAzzfem9kQhNPlSpsFCi5hml2p2OtrRetXPxAgDCw=
+			LYmRQBmk6QGM7QjZLf5tgbxiFGcMQ/YzyflMv+YYFms=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/BWRegistrationWindowController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			n9iFXOwQ/Z+2N/MqeqSPys91XMI=
+			DVH43vbA9ESG2TMqTQBsp++Wvkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			MSLS0cajcE40GD3WW3Z6bTAh+TWvOZkA6mHiqJAjm9k=
+			5RBh+ZH/26YhAgBMJ1+rQwLW5AFlv6EN1AKUla7YjB0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/BWStoreViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uXiMbs3hZwJPXZmTdSD8Ebdmml0=
+			WQXa/kNcAQi9RFTpd7nmqXVx+dA=
 			</data>
 			<key>hash2</key>
 			<data>
-			h3Kf21xFyhmq87j/3rgjN94TAcwZh+GcIRa6kBwhoZ8=
+			hFCTx1EJQexmtXVVdv4Tjp3vQbR5EoVttPnvW9/nRG4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/EmbeddedStoreWindow.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SJVooeQvUXuR7lWjAV5iMRs5F4s=
+			dnK8HFvUqaVIMVVfjfr4wdlOcao=
 			</data>
 			<key>hash2</key>
 			<data>
-			4ZfsxZxGDlyc8Zri3O57VlxxUxhwoBk93cQvJBfFyuk=
+			HEIN153y700XZ4RPsttwLKoTn61frtPU2hwLULAUsek=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K1+69NUShZK7h6bptcuksW17VMA=
+			8y/z3ht+R+BTeqCzoyCz65amDVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			3VU5w6bqty7IKEcvrD/YJpBstgDr2IWZ5MeEVKSaSD8=
+			jqdgU3Oil44jZVxd58TDe16kT49nvIPKW4S5MWzRxng=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/BWRegistrationViewController.strings</key>

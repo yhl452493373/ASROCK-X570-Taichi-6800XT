@@ -89,6 +89,9 @@
 /* Class = "NSTextFieldCell"; title = "Display Delay"; ObjectID = "FHv-7q-Wq3"; */
 "FHv-7q-Wq3.title" = "Display Delay";
 
+/* Class = "NSButtonCell"; title = "SysReport"; ObjectID = "GOG-QD-oyI"; */
+"GOG-QD-oyI.title" = "SysReport";
+
 /* Class = "NSButtonCell"; title = "Select All"; ObjectID = "Gaf-gn-k6J"; */
 "Gaf-gn-k6J.title" = "全选";
 
@@ -97,6 +100,9 @@
 
 /* Class = "NSButtonCell"; title = "Enable serial port logging"; ObjectID = "HjZ-gH-Q0b"; */
 "HjZ-gH-Q0b.title" = "启用串行端口日志记录";
+
+/* Class = "NSButtonCell"; title = "OC_SCAN_ALLOW_DEVICE_PCI"; ObjectID = "I0K-dq-ofU"; */
+"I0K-dq-ofU.title" = "允许扫描PCI设备";
 
 /* Class = "NSButtonCell"; title = "AllowNvramReset"; ObjectID = "Jpe-QB-x2r"; */
 "Jpe-QB-x2r.title" = "AllowNvramReset";
@@ -167,7 +173,7 @@
 /* Class = "NSButtonCell"; title = "Enable logging to file"; ObjectID = "Uz7-yL-WDQ"; */
 "Uz7-yL-WDQ.title" = "启用记录到文件";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist integer, 32 bit\nDefault value: 0xF0103\nDescription: Define operating system detection policy.\nThis value allows to prevent scanning (and booting) from untrusted source based on a bitmask (sum) of select flags. As it is not possible to reliably detect every file system or device type, this feature cannot be fully relied upon in open environments, and the additional measures are to be applied.\nThird party drivers may introduce additional security (and performance) measures following the provided scan policy. Scan policy is exposed in scan-policy variable of 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102 GUID for UEFI Boot Services only.\n• 0x00000001 — OC_SCAN_FILE_SYSTEM_LOCK, restricts scanning to only known file systems defined as a part of this policy. File system drivers may not be aware of this policy, and to avoid mounting of undesired file systems it is best not to load its driver. This bit does not affect dmg mounting, which may have any file system. Known file systems are prefixed with OC_SCAN_ALLOW_FS_.\n• 0x00000002 — OC_SCAN_DEVICE_LOCK, restricts scanning to only known device types defined as a part of this policy. This is not always possible to detect protocol tunneling, so be aware that on some systems it may be possible for e.g. USB HDDs to be recognised as SATA. Cases like this must be reported. Known device types are prefixed with OC_SCAN_ALLOW_DEVICE_.\n• 0x00000100 — OC_SCAN_ALLOW_FS_APFS, allows scanning of APFS file system.\n• 0x00010000 — OC_SCAN_ALLOW_DEVICE_SATA, allow scanning SATA devices.\n• 0x00020000 — OC_SCAN_ALLOW_DEVICE_SASEX, allow scanning SAS and Mac NVMe devices.\n• 0x00040000 — OC_SCAN_ALLOW_DEVICE_SCSI, allow scanning SCSI devices.\n• 0x00080000 — OC_SCAN_ALLOW_DEVICE_NVME, allow scanning NVMe devices.\n• 0x00100000 — OC_SCAN_ALLOW_DEVICE_ATAPI, allow scanning CD/DVD devices.\n• 0x00200000 — OC_SCAN_ALLOW_DEVICE_USB, allow scanning USB devices.\n• 0x00400000 — OC_SCAN_ALLOW_DEVICE_FIREWIRE, allow scanning FireWire devices.\n• 0x00800000 — OC_SCAN_ALLOW_DEVICE_SDCARD, allow scanning card reader devices.\nNote: Given the above description, 0xF0103 value is expected to allow scanning of SATA, SAS, SCSI, and NVMe devices with APFS file system, and prevent scanning of any devices with HFS or FAT32 file systems in addition to not scanning APFS file systems on USB, CD, USB, and FireWire drives. The combination reads as:\n• OC_SCAN_FILE_SYSTEM_LOCK • OC_SCAN_DEVICE_LOCK\n• OC_SCAN_ALLOW_FS_APFS\n• OC_SCAN_ALLOW_DEVICE_SATA\n• OC_SCAN_ALLOW_DEVICE_SASEX\n• OC_SCAN_ALLOW_DEVICE_SCSI • OC_SCAN_ALLOW_DEVICE_NVME"; ObjectID = "VQF-Ne-GWu"; */
+/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist integer, 32 bit\nDefault value: 0x10F0103\nDescription: Define operating system detection policy.\nThis value allows to prevent scanning (and booting) from untrusted source based on a bitmask (sum) of select flags. As it is not possible to reliably detect every file system or device type, this feature cannot be fully relied upon in open environments, and the additional measures are to be applied.\nThird party drivers may introduce additional security (and performance) measures following the provided scan policy. Scan policy is exposed in scan-policy variable of 4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102 GUID for UEFI Boot Services only.\n• 0x00000001 — OC_SCAN_FILE_SYSTEM_LOCK, restricts scanning to only known file systems defined as a part of this policy. File system drivers may not be aware of this policy, and to avoid mounting of undesired file systems it is best not to load its driver. This bit does not affect dmg mounting, which may have any file system. Known file systems are prefixed with OC_SCAN_ALLOW_FS_.\n• 0x00000002 — OC_SCAN_DEVICE_LOCK, restricts scanning to only known device types defined as a part of this policy. This is not always possible to detect protocol tunneling, so be aware that on some systems it may be possible for e.g. USB HDDs to be recognised as SATA. Cases like this must be reported. Known device types are prefixed with OC_SCAN_ALLOW_DEVICE_.\n• 0x00000100 — OC_SCAN_ALLOW_FS_APFS, allows scanning of APFS file system.\n• 0x00010000 — OC_SCAN_ALLOW_DEVICE_SATA, allow scanning SATA devices.\n• 0x00020000 — OC_SCAN_ALLOW_DEVICE_SASEX, allow scanning SAS and Mac NVMe devices.\n• 0x00040000 — OC_SCAN_ALLOW_DEVICE_SCSI, allow scanning SCSI devices.\n• 0x00080000 — OC_SCAN_ALLOW_DEVICE_NVME, allow scanning NVMe devices.\n• 0x00100000 — OC_SCAN_ALLOW_DEVICE_ATAPI, allow scanning CD/DVD devices.\n• 0x00200000 — OC_SCAN_ALLOW_DEVICE_USB, allow scanning USB devices.\n• 0x00400000 — OC_SCAN_ALLOW_DEVICE_FIREWIRE, allow scanning FireWire devices.\n• 0x00800000 — OC_SCAN_ALLOW_DEVICE_SDCARD, allow scanning card reader devices.\n• 0x01000000 (bit 24) — OC_SCAN_ALLOW_DEVICE_PCI, allow scanning devices directly connected to PCI bus (e.g. VIRTIO).\n\nNote: Given the above description, 0xF0103 value is expected to allow scanning of SATA, SAS, SCSI, and NVMe devices with APFS file system, and prevent scanning of any devices with HFS or FAT32 file systems in addition to not scanning APFS file systems on USB, CD, USB, and FireWire drives. The combination reads as:\n• OC_SCAN_FILE_SYSTEM_LOCK • OC_SCAN_DEVICE_LOCK\n• OC_SCAN_ALLOW_FS_APFS\n• OC_SCAN_ALLOW_DEVICE_SATA\n• OC_SCAN_ALLOW_DEVICE_SASEX\n• OC_SCAN_ALLOW_DEVICE_SCSI • OC_SCAN_ALLOW_DEVICE_NVME"; ObjectID = "VQF-Ne-GWu"; */
 "VQF-Ne-GWu.ibShadowedToolTip" = "0: 允许扫描所有可用的硬盘\n其它值请参考官方文档, 对给出的选项做 16 进制加法运算";
 
 /* Class = "NSButtonCell"; title = "OC_SCAN_FILE_SYSTEM_LOCK"; ObjectID = "Wnm-4q-QJ3"; */
@@ -220,6 +226,9 @@
 
 /* Class = "NSButtonCell"; title = "Provides predefined label images for boot entries without custom entries"; ObjectID = "dl8-kF-ipf"; */
 "dl8-kF-ipf.title" = "为引导项提供预定义的标签图像，而无需自定义项";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Type: plist boolean\nFailsafe: false\nDescription: Produce system report on ESP folder.\nThis option will create a SysReport directory on ESP partition unless it is already present. The directory will contain ACPI and SMBIOS dumps.\n\nNote: For security reasons SysReport option is not available in RELEASE builds. Use a DEBUG build if you need this option."; ObjectID = "eFH-QH-phT"; */
+"eFH-QH-phT.ibShadowedToolTip" = "在EFI分区上生成系统报告。\n此选项将在ESP分区上创建SysReport目录， 该目录将包含ACPI和SMBIOS转储。\n\n注意：出于安全原因，RELEASE版本中不提供SysReport功能。如果需要此选项，请使用DEBUG版本。";
 
 /* Class = "NSButtonCell"; title = "OC_SCAN_ALLOW_DEVICE_USB"; ObjectID = "eFc-bE-Fl5"; */
 "eFc-bE-Fl5.title" = "允许扫描USB设备";
@@ -317,17 +326,11 @@
 /* Class = "NSTabViewItem"; label = "BlessOverride"; ObjectID = "uyb-X6-nFt"; */
 "uyb-X6-nFt.label" = "BlessOverride-设置自定义启动项绝对路径";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Type: plist boolean\nDefault value: false\nDescription: Hides own boot entry from boot picker. This may potentially hide other entries, for instance, when another UEFI OS is installed on the same volume and driver boot is used."; ObjectID = "vN0-Ec-Ara"; */
-"vN0-Ec-Ara.ibShadowedToolTip" = "隐藏自身的EFI引导盘选项，一般选YES\n 例如， 当在同一卷上安装了另一个UEFI OS并引导时，可能会隐藏其他条目。";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Type: plist boolean\nFailsafe: false\nDescription: Enable modifier hotkey handling in boot picker.\nIn addition to action hotkeys, which are partially described in UsePicker section and are normally handled by Apple BDS, there exist modifier keys, which are handled by operating system bootloader, namely boot.efi. These keys allow to change operating system behaviour by providing different boot modes.\nOn some firmwares it may be problematic to use modifier keys due to driver incompatibilities. To workaround this problem this option allows registering select hotkeys in a more permissive manner from within boot picker. Such extensions include the support of tapping on keys in addition to holding and pressing Shift along with other keys instead of just Shift alone, which is not detectible on many PS/2 keyboards. This list of known modifier hotkeys includes:\n• CMD+C+MINUS — disable board compatibility checking.\n• CMD+K — boot release kernel, similar to kcsuffix=release.\n• CMD+S — single user mode.\n• CMD+S+MINUS — disable KASLR slide, requires disabled SIP.\n• CMD+V — verbose mode.\n• Shift — safe mode."; ObjectID = "vvg-w7-KxC"; */
 "vvg-w7-KxC.ibShadowedToolTip" = "是否开启一些热键功能，包括Cmd+K;Cmd+S。\n设置为YES后允许在引导过程中使用苹果原生快捷键, 需要与Quirk选项中KeySupport=Yes或UsbKbDxe.efi结合使用, 具体体验取决于主板固件。常用快捷键组合:\nCmd + V: 启用 -v 跑码啰嗦模式\nCmd + Opt + P + R: 重置 NVRAM\nCmd + R: 启动恢复分区\nCmd + S: 启动至单用户模式\nOption/ALT: 在ShowPicker设置成NO时显示引导菜单, ALT键不可用时可用ESC键代替(狂按ESC键)。\n如果你开机发现键盘无法选择，请选NO，并且删除OC/Drivers下的UsbKbDxe.efi 。";
 
 /* Class = "NSTableColumn"; headerCell.title = "Arguments"; ObjectID = "wFf-6v-O3P"; */
 "wFf-6v-O3P.headerCell.title" = "参数";
-
-/* Class = "NSButtonCell"; title = "Hide Self"; ObjectID = "wLx-ad-U2s"; */
-"wLx-ad-U2s.title" = "Hide Self\n隐藏自己";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Type: plist string\nFailsafe: None\nDescription: Hibernation detection mode. The following modes are supported:\n• None — Avoid hibernation for your own good.\n• Auto — Use RTC and NVRAM detection.\n• RTC — Use RTC detection.\n• NVRAM — Use NVRAM detection."; ObjectID = "wPi-6s-R0s"; */
 "wPi-6s-R0s.ibShadowedToolTip" = "检测休眠模式。我们的机器一般都不支持休眠，选none。如果你的主板支持原生nvram、并想测试休眠，可以考虑填auto。\n与系统内的休眠模式配合, 引导进系统会还原休眠前的状态, 这个可能功能会影响SSD寿命, 建议关闭！";
