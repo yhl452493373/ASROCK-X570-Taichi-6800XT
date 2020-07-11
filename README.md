@@ -8,7 +8,9 @@ you need to add your own platform data.the product is iMacPro1,1
 
 base on opencore 0.6.0 dev
 
-MacOS 10.15.5
+support MacOS 10.15.5 and 10.15.6 beta
+
+please read readme in LogoutHook after install macos successful
 
 ----
 + asrock x570 taichi
