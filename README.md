@@ -10,8 +10,6 @@ base on opencore 0.6.0 dev
 
 support MacOS 10.15.5 and 10.15.6 beta
 
-please read readme in LogoutHook after install macos successful
-
 ----
 + asrock x570 taichi
 + amd ryzen7 3700x
