@@ -6,7 +6,7 @@ opencore efi for asrock x570 taichi hackintosh
 
 you need to add your own platform data.the product is iMacPro1,1
 
-base on opencore 0.6.0
+base on opencore 0.6.0 dev
 
 MacOS 10.15.5
 
@@ -25,6 +25,7 @@ MacOS 10.15.5
 
 ----
 bios only to do is close csm
+
 bios version <= 3.0
 
 ----
