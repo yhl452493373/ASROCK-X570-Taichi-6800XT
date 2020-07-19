@@ -26,7 +26,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		PSTvEwuL9mwQtqoFbLSsD4SA5sI=
+		j0UQ64Vo7YmnpVblyq4H+R/kLng=
 		</data>
 		<key>Resources/Audio/Codecs.plist</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
-		NRr7ZPzkjE5vr2ojdGeirWdo9NY=
+		iSFXgnkGZ1+aX7cQK1PZJdnerFo=
 		</data>
 		<key>Resources/Clover/config_patches.plist</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/Coffee Lake.bin</key>
 		<data>
-		KC0cz4KYu4l9GA7NMqOQyHx2FYQ=
+		G0oYNl8aBf6m0ZMk933LVdYvxY0=
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/Haswell.bin</key>
 		<data>
@@ -890,7 +890,7 @@
 		</data>
 		<key>Resources/Intel/DeviceIDs.plist</key>
 		<data>
-		UyFQ1dLroip7tiO2pJdetowCEYg=
+		P2TJRd/8OqQJtOAvipX2ElBD9pw=
 		</data>
 		<key>Resources/Intel/FBDrivers.plist</key>
 		<data>
@@ -1328,11 +1328,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PSTvEwuL9mwQtqoFbLSsD4SA5sI=
+			j0UQ64Vo7YmnpVblyq4H+R/kLng=
 			</data>
 			<key>hash2</key>
 			<data>
-			YhIr/tLhIYGJ5U90dGS9SxVnw9Mps5VJkx/wGtKLY5g=
+			6dxUpSQEiWZoNLsblT7fZGbpaS1jov7X9afFBExhiUk=
 			</data>
 		</dict>
 		<key>Resources/Audio/Codecs.plist</key>
@@ -1427,11 +1427,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NRr7ZPzkjE5vr2ojdGeirWdo9NY=
+			iSFXgnkGZ1+aX7cQK1PZJdnerFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			VJ7xOzy1nMQw7xAGdEc4Do3VOLCfiISBnh7+QO+rsUk=
+			fgkxAwyl/OUz20khPeRxVHeGqZRdwOc63RMEKBHlriE=
 			</data>
 		</dict>
 		<key>Resources/Clover/config_patches.plist</key>
@@ -1625,11 +1625,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KC0cz4KYu4l9GA7NMqOQyHx2FYQ=
+			G0oYNl8aBf6m0ZMk933LVdYvxY0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jr4O2IFE7/MsalYOkxRKawvwtyraxOIDA6zQYLCmr1Q=
+			uF33Eu47iu7Q6+puojrx+3PYIJVaIyVKzu5oKm5Diac=
 			</data>
 		</dict>
 		<key>Resources/Framebuffer/macOS 10.14/Haswell.bin</key>
@@ -3422,11 +3422,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UyFQ1dLroip7tiO2pJdetowCEYg=
+			P2TJRd/8OqQJtOAvipX2ElBD9pw=
 			</data>
 			<key>hash2</key>
 			<data>
-			yjfJw1W6xSd6csKWWM0NjGOmT7uB2bAb4aY/aGe1zQU=
+			54nKAhx8rQ1i4nd8Smbn2lqip4cBIyZBm0E9/zlIpVo=
 			</data>
 		</dict>
 		<key>Resources/Intel/FBDrivers.plist</key>
