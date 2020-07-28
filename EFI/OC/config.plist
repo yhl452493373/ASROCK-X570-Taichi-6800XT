@@ -280,22 +280,6 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>Innie.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/Innie</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
 				<string>USBPorts-iMac19,1.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1294,7 +1278,7 @@
 			<key>DummyPowerManagement</key>
 			<true/>
 			<key>ExternalDiskIcons</key>
-			<false/>
+			<true/>
 			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
@@ -1515,6 +1499,23 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
+		<key>Generic</key>
+		<dict>
+			<key>AdviseWindows</key>
+			<false/>
+			<key>MLB</key>
+			<string>C029293014NLNV91H</string>
+			<key>ROM</key>
+			<data>3lFhsfGv</data>
+			<key>SpoofVendor</key>
+			<false/>
+			<key>SystemProductName</key>
+			<string>iMac19,1</string>
+			<key>SystemSerialNumber</key>
+			<string>C02Z302WJV3Q</string>
+			<key>SystemUUID</key>
+			<string>C7A89A19-4D85-4FD6-B553-C14D53D665B5</string>
+		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
 		<key>UpdateNVRAM</key>
