@@ -114,7 +114,7 @@
 			<key>ForceExitBootServices</key>
 			<false/>
 			<key>ProtectMemoryRegions</key>
-			<true/>
+			<false/>
 			<key>ProtectSecureBoot</key>
 			<false/>
 			<key>ProtectUefiServices</key>
@@ -1294,7 +1294,7 @@
 			<key>DummyPowerManagement</key>
 			<true/>
 			<key>ExternalDiskIcons</key>
-			<true/>
+			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
@@ -1453,8 +1453,6 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
-				<key>run-efi-updater</key>
-				<string>No</string>
 				<key>boot-args</key>
 				<string>-v npci=0x3000 vsmcgen=1</string>
 				<key>#csr-active-config</key>
