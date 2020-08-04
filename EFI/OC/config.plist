@@ -38,6 +38,14 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
+				<string>SSDT-PLUG.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
 				<string>SSDT-DTPG.aml</string>
 			</dict>
 			<dict>
@@ -47,14 +55,6 @@
 				<true/>
 				<key>Path</key>
 				<string>SSDT-HPET.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-PLUG.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -216,22 +216,6 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>AGPMInjector-iMac19,1-RadeonVII.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
 				<string>AppleMCEReporterDisabler.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -264,13 +248,13 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>SMCSuperIO.kext</string>
+				<string>AGPMInjector-iMac19,1-RadeonVII.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SMCSuperIO</string>
+				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -287,6 +271,22 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>SMCSuperIO.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/SMCSuperIO</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1332,6 +1332,8 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
+			<key>SerialInit</key>
+			<false/>
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
@@ -1438,7 +1440,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-v npci=0x3000 vsmcgen=1</string>
+				<string>-v npci=0x3000</string>
 				<key>#csr-active-config</key>
 				<data>dwgAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1499,23 +1501,6 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
-		<key>Generic</key>
-		<dict>
-			<key>AdviseWindows</key>
-			<false/>
-			<key>MLB</key>
-			<string>C029293014NLNV91H</string>
-			<key>ROM</key>
-			<data>3lFhsfGv</data>
-			<key>SpoofVendor</key>
-			<false/>
-			<key>SystemProductName</key>
-			<string>iMac19,1</string>
-			<key>SystemSerialNumber</key>
-			<string>C02Z302WJV3Q</string>
-			<key>SystemUUID</key>
-			<string>C7A89A19-4D85-4FD6-B553-C14D53D665B5</string>
-		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
 		<key>UpdateNVRAM</key>
@@ -1563,9 +1548,9 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlusLegacy.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenCanopy.efi</string>
+			<string>HfsPlusLegacy.efi</string>
 			<string>AudioDxe.efi</string>
 			<string>#OpenUsbKbDxe.efi</string>
 			<string>#UsbMouseDxe.efi</string>
