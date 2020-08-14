@@ -10,15 +10,15 @@
 		</data>
 		<key>Resources/Base.lproj/Document.nib</key>
 		<data>
-		JJurYouKEgMvVvl4gMWsr0Q7qoY=
+		RRt+HwDVEnVXXHGoihsBGtbwCWs=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
-		csLu5czx+AzrITlCGsGbtuAfRm4=
+		9mpAu1ra7+AurjaDxrzEghEkNhw=
 		</data>
 		<key>Resources/Base.lproj/OCPropertyListEditorView.nib</key>
 		<data>
-		Rueqhx5qGV5IomlVE/bKvOXia58=
+		pWRBPZgIGAXXpi+tG6Hk7vidtMA=
 		</data>
 		<key>Resources/Base.lproj/acpiController.nib</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Resources/Base.lproj/bdmesg.nib</key>
 		<data>
-		1hC3avvbBOL9qigWXklOFL4fWrE=
+		vY8D7g1dRNbde3RGGqTw3HJpJ/g=
 		</data>
 		<key>Resources/Base.lproj/booterController.nib</key>
 		<data>
-		v91274YSkqAULkkz3mABsrg8ZX8=
+		JsNQdewiaZCcbTtjglT31xSJ1lo=
 		</data>
 		<key>Resources/Base.lproj/configChecker.nib</key>
 		<data>
-		0YPpCv7ORi5bY9WGEqrOh2/dy9Y=
+		Zg06fhdPr17uJ2vjMUC8jdKNIGw=
 		</data>
 		<key>Resources/Base.lproj/devicePropertiesController.nib</key>
 		<data>
-		LsvJQtTrCS3tLPA478p6IBVVKh8=
+		fP5K9P6yyYVnPcdgyRP90cO+xHo=
 		</data>
 		<key>Resources/Base.lproj/helperController.nib</key>
 		<data>
@@ -50,31 +50,31 @@
 		</data>
 		<key>Resources/Base.lproj/installDrivers.nib</key>
 		<data>
-		Cmc6+gAkHDBZFK6LNP2HutOi6jg=
+		x3oQHJW3R7AmBwaXBJ/Z5HZjtOo=
 		</data>
 		<key>Resources/Base.lproj/installTools.nib</key>
 		<data>
-		L4+7rUnrfx9nrYx293ipDHcgcWc=
+		Y3b7v6c+/YtdJ70r1Er2J+iItJM=
 		</data>
 		<key>Resources/Base.lproj/kernelController.nib</key>
 		<data>
-		6DCz/a3Sof6wUQPryX09cRF+VRY=
+		KVHrXBGR0VdhrY5G6IHM7tgrAHk=
 		</data>
 		<key>Resources/Base.lproj/kextsInstaller.nib</key>
 		<data>
-		yMrnle7mh+WWbVnu7Ph/FrkP+pg=
+		s1dJGm0LPBphTiLDKLFW87TCuCY=
 		</data>
 		<key>Resources/Base.lproj/miscController.nib</key>
 		<data>
-		EDYDe9ViYhoBRsh/eG1IbLPWw7o=
+		snYQeGQXaF15s4++flrPayqxNBA=
 		</data>
 		<key>Resources/Base.lproj/mountefi.nib</key>
 		<data>
-		Pgq0ndEie6ScNjNhhfs4CZwN33o=
+		u5mNG6VGQ0Ny9kD8iyinFEExT5g=
 		</data>
 		<key>Resources/Base.lproj/nvramController.nib</key>
 		<data>
-		PSDZL0xvlZ2HEa79z2+7r2WLoCc=
+		8FIYSkhpPlWhdIbm72blotgICVI=
 		</data>
 		<key>Resources/Base.lproj/opencoreDownloader.nib</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Resources/Base.lproj/scanConfig.nib</key>
 		<data>
-		eTq7MkN5rCL3cDGO+z8IWq3AJNw=
+		7/9nyHXUV2scHeA0bSgUXQIslr4=
 		</data>
 		<key>Resources/Base.lproj/uefiController.nib</key>
 		<data>
-		+Sny9ot3QpOE27El7sxxn1hPF6M=
+		zkuKxezO0NR9Oxu9BRy1NTHUPsw=
 		</data>
 		<key>Resources/Base.lproj/warningScreen.nib</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Resources/database.mom</key>
 		<data>
-		yoduAloZTpq4jWyo2cCi1CE6z4g=
+		vpyOp/Ey47NbomnSfGNUxHUArBc=
 		</data>
 		<key>Resources/en.lproj/AFNetworking.strings</key>
 		<dict>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7DP195FqbITxPFjR074aPhAECD8=
+			wPul6ppbNjP3Yr5DBe1fP33VC3c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -157,7 +157,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5xnKo5On9CK0K6bq4XcpgFZ7Qis=
+			M954GA6cBFqhxiGOweGT/H8gmhw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -265,7 +265,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5jc4ZsKurG3zZ7oP1kMecwANP9s=
+			MTdb8u1L4y0J7uw6WkX47jhrGE8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -319,7 +319,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nCiDyNGSjDXNLFPszN3jUaQBwg4=
+			G43tbiVwg4ImiRs4PN5ACHHzSPk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -364,7 +364,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EJS9tc5AoxpSDCl2CvCx8qERWQo=
+			th18OglM5tbYGhra7yRjTvae108=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -580,7 +580,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eDnJM6BkfC7qQeJwcD7ihHtEoog=
+			0UftWu+tUlo/7MA98KUezgQ+6Js=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -770,7 +770,7 @@
 		</data>
 		<key>Resources/quickTools.nib</key>
 		<data>
-		rrLM7NQ3FeLNCj3rMbFILKKoZTc=
+		rPmPnwkbdWtN0ulJpnpS7AEuzh8=
 		</data>
 		<key>Resources/zh-Hans.lproj/AFNetworking.strings</key>
 		<dict>
@@ -812,7 +812,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VJAm6B8kciIYAQxoJhclONfExF0=
+			RJfqBJNGHDs5JVB4gIfCy07Ha0Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -929,7 +929,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dIejL1B7YqVeK6OMel4KJ/T+Qkg=
+			Jmk7HrqUPVVW6J1Vvq1gbdLiZy0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1087,33 +1087,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JJurYouKEgMvVvl4gMWsr0Q7qoY=
+			RRt+HwDVEnVXXHGoihsBGtbwCWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			KcA2B/axHpM7q15ytkX71QSDonEBnaM3cMoHmUOBIT4=
+			T7tgW40s82lAjkoSX8fMkodKam8jSU67tbq3ppfQyvQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			csLu5czx+AzrITlCGsGbtuAfRm4=
+			9mpAu1ra7+AurjaDxrzEghEkNhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+nxjsvj3WTNN38WaZzy8X8fGbHU8EFmR4Zp47PgLbbg=
+			uUG3fx0bf7pnOo8vAwsMcDYhGi2IzgXt0xatY38MTcA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/OCPropertyListEditorView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rueqhx5qGV5IomlVE/bKvOXia58=
+			pWRBPZgIGAXXpi+tG6Hk7vidtMA=
 			</data>
 			<key>hash2</key>
 			<data>
-			h8JP9YfPlxgsDzb29iLvYHbZdGI7lRy9s3nfmqCXXH8=
+			TLTvO/FprWyWOm9kbS8hM8JWZeaDitJSdLk0pr3JfZI=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/acpiController.nib</key>
@@ -1131,44 +1131,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1hC3avvbBOL9qigWXklOFL4fWrE=
+			vY8D7g1dRNbde3RGGqTw3HJpJ/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			yrVsnJDbSJwpN+sl3tAZkmEW8DjlAKYkuphi7Sfslvg=
+			4uWNFo1xMz2xETILTNtzwYjAWdPSEwTI5IOx3sjo+iU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/booterController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v91274YSkqAULkkz3mABsrg8ZX8=
+			JsNQdewiaZCcbTtjglT31xSJ1lo=
 			</data>
 			<key>hash2</key>
 			<data>
-			tZSWf+Kp+jPd+6Er1Sw38U+sh2sLhmMicenZ9GzoWjE=
+			Mioy7bnmcEoUEBma8ycsTY+T7YYg4hD+YQrYUirV5FI=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/configChecker.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0YPpCv7ORi5bY9WGEqrOh2/dy9Y=
+			Zg06fhdPr17uJ2vjMUC8jdKNIGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			vvxpptqIxmkDbkw6MIyw3CSo7s6hcj6vO/eODumxaxI=
+			Wd9BjTwywup2s0t+hT5ZPoAzI8D5hUDiHgeKXI7z6Oc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/devicePropertiesController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LsvJQtTrCS3tLPA478p6IBVVKh8=
+			fP5K9P6yyYVnPcdgyRP90cO+xHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			hD9a0glGTdk0TZFGbW3nrOtcGiWkdWyj/NaJ+uYikmg=
+			rTiAGQx82kR/o/a6OpVwghwwy3wWf9prG3gtobu5f4k=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/helperController.nib</key>
@@ -1197,77 +1197,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Cmc6+gAkHDBZFK6LNP2HutOi6jg=
+			x3oQHJW3R7AmBwaXBJ/Z5HZjtOo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ApqV0PgnlPivzl3f+MpALtBaqPX3QG0I9BSn0VVlGXU=
+			wSD3u0m9e88jiqWWR9RlJj6tuOezodO4v8jCYEIHPbY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/installTools.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L4+7rUnrfx9nrYx293ipDHcgcWc=
+			Y3b7v6c+/YtdJ70r1Er2J+iItJM=
 			</data>
 			<key>hash2</key>
 			<data>
-			QlrbjdqX6OTilH5zVD9Wyu0WVQwMAK4nqNVxCSFMqUc=
+			UfksyC7gFjyKMb+cZFH9lv73YxjL5dd5d7SzPg1DpR8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/kernelController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6DCz/a3Sof6wUQPryX09cRF+VRY=
+			KVHrXBGR0VdhrY5G6IHM7tgrAHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			uJyMx6lrg04MnT3v6sgFa17lontqx16IUfPGy9OeRZU=
+			712XGYURQ8laniEcHxVFCBvgUz9PMpf5zwK2JiJPzOg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/kextsInstaller.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yMrnle7mh+WWbVnu7Ph/FrkP+pg=
+			s1dJGm0LPBphTiLDKLFW87TCuCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			wAptRCW7kaRQrSp08La6/ntDhBpgtDFhfoX7EAep9GI=
+			+4Pq5IPn9pHaSHWeHeTkfuIsM5o+eWgHjzlsozkkzTM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/miscController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EDYDe9ViYhoBRsh/eG1IbLPWw7o=
+			snYQeGQXaF15s4++flrPayqxNBA=
 			</data>
 			<key>hash2</key>
 			<data>
-			lHTBQKBt+PSFE/W4KxrEfUH7r3W3yhq+ISHFwWRfH2A=
+			nm04gBrmB0ybTnxewVisDKxl0A1IG3aqSgKVtqe+3Sk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/mountefi.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Pgq0ndEie6ScNjNhhfs4CZwN33o=
+			u5mNG6VGQ0Ny9kD8iyinFEExT5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			ynnIlfpm85FoJoaAiyvLEq3xWkspjtRJRYeh08yUma0=
+			ZHr13tsOU/HnUK4ccJ6Pn9vHB5LdE4D5yJuc5EmYJ+4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/nvramController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PSDZL0xvlZ2HEa79z2+7r2WLoCc=
+			8FIYSkhpPlWhdIbm72blotgICVI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PI3/e03jRNsDz7EccKY8sTP0ivCWiqauPdEh9NiCC5A=
+			WSfzxrvyUnshSxqnyeREsVOSKWdkRfoTE5CCSuINP4o=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/opencoreDownloader.nib</key>
@@ -1296,22 +1296,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eTq7MkN5rCL3cDGO+z8IWq3AJNw=
+			7/9nyHXUV2scHeA0bSgUXQIslr4=
 			</data>
 			<key>hash2</key>
 			<data>
-			78eLfX34YYiIyhAAHHSL7RSBGLF58DZdR55kwSCIlIQ=
+			zOlM5KfUJDOUYkpE9MIdefx2Cf9VllazPU9qoWkjPqQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/uefiController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+Sny9ot3QpOE27El7sxxn1hPF6M=
+			zkuKxezO0NR9Oxu9BRy1NTHUPsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			T3RsFRJ3NBC8gldrV97KzfpaQh4lJyG9VOkkMPPN4Ug=
+			KbxP6mK9MEwOoG5umdlxDuTM184OEvmn8xseevjDej4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/warningScreen.nib</key>
@@ -1351,11 +1351,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yoduAloZTpq4jWyo2cCi1CE6z4g=
+			vpyOp/Ey47NbomnSfGNUxHUArBc=
 			</data>
 			<key>hash2</key>
 			<data>
-			cGyj1s5Zxu1couL5sYmPQplb/xPRBapfBBq6d9szYJs=
+			Z0bfnhKv00C6VN1Q+ckvqUejo+R9tWCvFVroyqKrK7c=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/AFNetworking.strings</key>
@@ -1414,11 +1414,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7DP195FqbITxPFjR074aPhAECD8=
+			wPul6ppbNjP3Yr5DBe1fP33VC3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			enRW1FWDU+/SaZfjsDooSY+3JUJy3H9wYkVT0tmDAP4=
+			LZRtiWkhY5sDUEZ851+2brKknXNeWIwwVLXn7mZDor0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1427,11 +1427,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5xnKo5On9CK0K6bq4XcpgFZ7Qis=
+			M954GA6cBFqhxiGOweGT/H8gmhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ftI5BPSbFLPuX9KGzdZu4mti1sqBvKhR3pQuIhHYxEk=
+			ABDz3dogMLonnwD2yJKabBbXs8liF66/dTSU/P6Gsuw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1583,11 +1583,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5jc4ZsKurG3zZ7oP1kMecwANP9s=
+			MTdb8u1L4y0J7uw6WkX47jhrGE8=
 			</data>
 			<key>hash2</key>
 			<data>
-			nHX8ihQWPSrx/N9GOc60OIZpjgjEoGb6sGkKsVx/3UE=
+			RGQElxdyVdNWShUjHQIWEkJn+artEr26WH1XGwZhfa4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1661,11 +1661,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nCiDyNGSjDXNLFPszN3jUaQBwg4=
+			G43tbiVwg4ImiRs4PN5ACHHzSPk=
 			</data>
 			<key>hash2</key>
 			<data>
-			QL9QP3bX8Bm6N+b+MKwZQ1Zpvla/S/PQ2KokaUtyiLI=
+			TtL61enbv4eBEqtcqFH7N62soyNp1NSz+/Ff4x+A/W8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1726,11 +1726,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EJS9tc5AoxpSDCl2CvCx8qERWQo=
+			th18OglM5tbYGhra7yRjTvae108=
 			</data>
 			<key>hash2</key>
 			<data>
-			zDVuynWcPlA35qOz8JOOgEwvQzlCGV+otutzAxanWuE=
+			cVRMK2PwRLY+9xRJfBtl6Z22o8+DKHEteC4A/5qlX9s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2038,11 +2038,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eDnJM6BkfC7qQeJwcD7ihHtEoog=
+			0UftWu+tUlo/7MA98KUezgQ+6Js=
 			</data>
 			<key>hash2</key>
 			<data>
-			6WOmeU8rIihxsO/EQKD48Fw7OFCgON//6rfHkiBcTWA=
+			wa828CC3dApjmShlkJPj0UYyO/d8ikD0Site+2TwTtQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2331,11 +2331,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rrLM7NQ3FeLNCj3rMbFILKKoZTc=
+			rPmPnwkbdWtN0ulJpnpS7AEuzh8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ljL65Fybup5A4f3ee9FAVUc2BY4xfO1xLYSS01MoZoM=
+			QS6PY9CGD0ev/kOt4PGiVPzQ1XFIIGruJRYZSLd7Tyc=
 			</data>
 		</dict>
 		<key>Resources/zh-Hans.lproj/AFNetworking.strings</key>
@@ -2394,11 +2394,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VJAm6B8kciIYAQxoJhclONfExF0=
+			RJfqBJNGHDs5JVB4gIfCy07Ha0Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			itZMmS//Psiqtg7YnXJxdIgzLHxOMQ62QKHKDrykJBU=
+			UMPIRHIufci1n4IYOv21yivgO2zsQkux2Ld63Fuzajs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2563,11 +2563,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dIejL1B7YqVeK6OMel4KJ/T+Qkg=
+			Jmk7HrqUPVVW6J1Vvq1gbdLiZy0=
 			</data>
 			<key>hash2</key>
 			<data>
-			P40nldduVK1htLWIUJhKYtnY9hlWZDxX699wSQUWSnQ=
+			x5obRjevBTbp0FDzlOF/on+7XIl+zAoDab7eTdeujOA=
 			</data>
 			<key>optional</key>
 			<true/>
