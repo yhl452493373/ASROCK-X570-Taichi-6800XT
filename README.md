@@ -4,7 +4,7 @@
 
 opencore efi for asrock x570 taichi hackintosh
 
-you need to add your own platform data.the product is iMac19,1
+you need to add your own platform data.the product is iMacPro1,1
 
 base on opencore 0.6.1 dev
 
