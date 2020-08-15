@@ -22,6 +22,14 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
+				<string>DSDT.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
 				<string>SSDT-EC.aml</string>
 			</dict>
 			<dict>
@@ -140,7 +148,7 @@
 				<key>model</key>
 				<string>Realtek ALC1220</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)</key>
+			<key>#PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,1,1/0,0</string>
@@ -151,7 +159,7 @@
 				<key>model</key>
 				<string>PCI-E NVME Controller [AHCI mode]</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x2)/Pci(0x0,0x0)/Pci(0x3,0x0)/Pci(0x0,0x0)/Pci(0x5,0x0)/Pci(0x0,0x0)</key>
+			<key>#PciRoot(0x0)/Pci(0x1,0x2)/Pci(0x0,0x0)/Pci(0x3,0x0)/Pci(0x0,0x0)/Pci(0x5,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,1,2/0,0/3,0/0,0/5,0/0,0</string>
@@ -284,7 +292,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>USBPorts-iMac20,1.kext</string>
+				<string>USBPorts-iMacPro1,1.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -300,7 +308,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>AGPMInjector-iMac20,1-RadeonVII.kext</string>
+				<string>AGPMInjector-iMacPro1,1-RadeonVII.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
