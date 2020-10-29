@@ -248,8 +248,8 @@
 /* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "Q5e-8K-NDq"; */
 "Q5e-8K-NDq.title" = "显示字体";
 
-/* Class = "NSMenuItem"; title = "SampleFull.plist"; ObjectID = "QT1-6J-6cg"; */
-"QT1-6J-6cg.title" = "SampleFull.plist";
+/* Class = "NSMenuItem"; title = "SampleCustom.plist"; ObjectID = "QT1-6J-6cg"; */
+"QT1-6J-6cg.title" = "SampleCustom.plist";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "放大";
@@ -298,9 +298,6 @@
 
 /* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk"; */
 "WeT-3V-zwk.title" = "粘贴和匹配样式";
-
-/* Class = "NSMenuItem"; title = "Install Tools"; ObjectID = "XaO-go-3SF"; */
-"XaO-go-3SF.title" = "工具安装";
 
 /* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
 "Xz5-n4-O0W.title" = "查找…";
@@ -449,14 +446,11 @@
 /* Class = "NSTextFieldCell"; title = "Updates"; ObjectID = "ovh-My-wBx"; */
 "ovh-My-wBx.title" = "更新";
 
-/* Class = "NSMenuItem"; title = "Install Drivers"; ObjectID = "pOF-pa-P5Z"; */
-"pOF-pa-P5Z.title" = "安装驱动程序";
-
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
 "pa3-QI-u2k.title" = "删除";
 
-/* Class = "NSMenuItem"; title = "SampleFull.plist"; ObjectID = "paC-6u-bhk"; */
-"paC-6u-bhk.title" = "SampleFull.plist";
+/* Class = "NSMenuItem"; title = "SampleCustom.plist"; ObjectID = "paC-6u-bhk"; */
+"paC-6u-bhk.title" = "SampleCustom.plist";
 
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
 "q09-fT-Sye.title" = "查找下一个";
@@ -487,9 +481,6 @@
 
 /* Class = "NSMenu"; title = "Resources"; ObjectID = "szL-gC-fh3"; */
 "szL-gC-fh3.title" = "资源";
-
-/* Class = "NSMenuItem"; title = "Kexts Installer"; ObjectID = "tMo-jU-Ud8"; */
-"tMo-jU-Ud8.title" = "Kexts安装程序";
 
 /* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "tRr-pd-1PS"; */
 "tRr-pd-1PS.title" = "数据检测器";

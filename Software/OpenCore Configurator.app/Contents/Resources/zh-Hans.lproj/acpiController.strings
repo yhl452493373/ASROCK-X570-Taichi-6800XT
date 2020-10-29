@@ -54,7 +54,7 @@
 "MtH-av-7W0.headerCell.title" = "ACPI表长度";
 
 /* Class = "NSButtonCell"; title = "Browse"; ObjectID = "Ndv-7C-25y"; */
-"Ndv-7C-25y.title" = "浏览";
+"Ndv-7C-25y.title" = "快照添加";
 
 /* Class = "NSTableColumn"; headerCell.title = "Replace"; ObjectID = "NtB-gi-4nw"; */
 "NtB-gi-4nw.headerCell.title" = "替换";
@@ -64,9 +64,6 @@
 
 /* Class = "NSButtonCell"; title = "RebaseRegions"; ObjectID = "OG6-fc-Q9m"; */
 "OG6-fc-Q9m.title" = "RebaseRegions";
-
-/* Class = "NSTextFieldCell"; title = "Multiple selection allowed"; ObjectID = "SPY-Vf-Izp"; */
-"SPY-Vf-Izp.title" = "可以多项选择(也可以直接拖拽aml补丁文件到表格里)";
 
 /* Class = "NSButtonCell"; title = "ResetHwSig"; ObjectID = "Z6k-wb-4yC"; */
 "Z6k-wb-4yC.title" = "ResetHwSig";
@@ -100,6 +97,9 @@
 
 /* Class = "NSTabViewItem"; label = "Patch"; ObjectID = "jB3-Fa-Mq9"; */
 "jB3-Fa-Mq9.label" = "补丁";
+
+/* Class = "NSButtonCell"; title = "Download/Update Acpi"; ObjectID = "l2s-yf-wZB"; */
+"l2s-yf-wZB.title" = "下载/更新 Acpi文件";
 
 /* Class = "NSButtonCell"; title = "FadtEnableReset"; ObjectID = "l7b-Bk-2B3"; */
 "l7b-Bk-2B3.title" = "FadtEnableReset";
