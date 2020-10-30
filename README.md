@@ -8,7 +8,7 @@ you need to add your own platform data.the product is iMacPro1,1
 
 base on opencore 0.6.2 release
 
-support MacOS 10.15.7 and 11 (big sur)
+support MacOS 10.15.7 and 11 (test with big sur beta10)
 
 ----
 + asrock x570 taichi
@@ -20,6 +20,8 @@ support MacOS 10.15.7 and 11 (big sur)
 
 ----
 + sleep not work
++ bluetooth can not reopen when manual off
++ virtual machines not work
 
 ----
 bios only to do is close csm
