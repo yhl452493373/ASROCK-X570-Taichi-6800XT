@@ -341,7 +341,7 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>SmallTree-Intel-211-AT-PCIe-GBE.kext</string>
+				<string>SmallTreeIntel82576.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
