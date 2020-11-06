@@ -352,13 +352,13 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>SmallTreeIntel82576.kext</string>
+				<string>SMCSuperIO.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SmallTreeIntel82576</string>
+				<string>Contents/MacOS/SMCSuperIO</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -370,13 +370,13 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>SMCSuperIO.kext</string>
+				<string>SmallTreeIntel82576.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SMCSuperIO</string>
+				<string>Contents/MacOS/SmallTreeIntel82576</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -465,7 +465,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data></data>
 				<key>Identifier</key>
@@ -495,7 +495,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>uAEAAAC5yAEAADHSDzA=</data>
 				<key>Identifier</key>
@@ -517,7 +517,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -547,7 +547,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_cpu_topology_sort</string>
 				<key>Comment</key>
@@ -577,7 +577,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -607,7 +607,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -637,7 +637,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -667,7 +667,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -697,7 +697,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -727,7 +727,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -757,7 +757,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -787,7 +787,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -817,7 +817,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -847,7 +847,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -877,7 +877,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -907,7 +907,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -937,7 +937,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
@@ -967,7 +967,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
@@ -997,7 +997,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1027,7 +1027,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1057,7 +1057,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
@@ -1087,7 +1087,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
@@ -1117,7 +1117,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
@@ -1147,7 +1147,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
@@ -1177,7 +1177,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_cpuid_set_info</string>
 				<key>Comment</key>
@@ -1207,7 +1207,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1237,7 +1237,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1267,7 +1267,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1297,7 +1297,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1327,7 +1327,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_tsc_init</string>
 				<key>Comment</key>
@@ -1357,7 +1357,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1387,7 +1387,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1417,7 +1417,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1447,7 +1447,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1477,7 +1477,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string>_lapic_interrupt</string>
 				<key>Comment</key>
@@ -1507,7 +1507,7 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
@@ -1659,7 +1659,7 @@
 			<key>BootProtect</key>
 			<string>Bootstrap</string>
 			<key>DmgLoading</key>
-			<string>Any</string>
+			<string>Signed</string>
 			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
@@ -1671,7 +1671,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>SecureBootModel</key>
-			<string>Disabled</string>
+			<string>j137</string>
 			<key>ScanPolicy</key>
 			<integer>33496835</integer>
 			<key>Vault</key>
@@ -1802,6 +1802,8 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
+		<key>CustomMemory</key>
+		<false/>
 		<key>UpdateDataHub</key>
 		<true/>
 		<key>UpdateNVRAM</key>
@@ -1894,6 +1896,8 @@
 			<string></string>
 			<key>DirectGopRendering</key>
 			<true/>
+			<key>ForceResolution</key>
+			<false/>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
 			<key>ProvideConsoleGop</key>
