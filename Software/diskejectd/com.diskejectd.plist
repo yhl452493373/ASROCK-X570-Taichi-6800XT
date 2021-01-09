@@ -11,8 +11,11 @@
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/local/sbin/diskejectd</string>
+		<string>disk0</string>
+		<string>disk1</string>
+		<string>disk2</string>
 		<string>disk3</string>
-		<string>disk5</string>
+		<string>disk4</string>
 	</array>
 </dict>
 </plist>
