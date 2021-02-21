@@ -119,6 +119,9 @@
 /* Class = "NSButtonCell"; title = "OC_SCAN_ALLOW_DEVICE_PCI"; ObjectID = "I0K-dq-ofU"; */
 "I0K-dq-ofU.title" = "允许扫描PCI设备";
 
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Type: plist string\nFailsafe: Disabled\nDescription: Register launcher option in firmware preferences for persistence.\nValid values:\n• Disabled — do nothing.\n• Full — create or update top-priority boot option in UEFI variable storage at bootloader startup. For this option to work RequestBootVarRouting is required to be enabled.\n• Short — create a short boot option instead of a complete one. This variant is useful for some older firmwares, Insyde in particular, but possibly others, which cannot handle full device paths.\n\nThis option provides integration with third-party operating system installation and upgrade at the times they overwrite \\EFI\\BOOT\\BOOTx64.efi file. By creating a custom option in this file path becomes no longer used for bootstrapping OpenCore. The path used for bootstrapping is specified in LauncherPath option.\n\nNote 1: Some types of firmware may have faulty NVRAM, no boot option support, or other incompatibilities. While unlikely, the use of this option may even cause boot failures. This option should be used without any warranty exclusively on the boards known to be compatible.\n\nNote 2: Be aware that while NVRAM reset executed from OpenCore should not erase the boot option created in Bootstrap, executing NVRAM reset prior to loading OpenCore will remove it. For significant implementation updates (e.g. in OpenCore 0.6.4) make sure to perform NVRAM reset with Bootstrap disabled before reenabling."; ObjectID = "IqM-FZ-Tdv"; */
+"IqM-FZ-Tdv.ibShadowedToolTip" = "在固件首选项中注册启动器选项以实现持久性.\n可用值:\n• Disabled — 啥也不做.\n• Full — 在引导加载程序启动时，在UEFI变量存储中创建或更新最高优先级引导选项。为了使此选项起作用，需要启用RequestBootVarRouting.\n• Short — 创建一个短启动选项，而不是完整的启动选项。此选项对某些较旧的固件(尤其是Insyde)很有用，但可能对无法处理完整设备路径的其他固件无效.\n\n此选项在覆盖\\EFI\\BOOT\\BOOTx64.efi文件时提供与第三方操作系统安装和升级的集成。. 通过在此文件路径中创建自定义选项，该路径不再用于引导OpenCore. 用于启动的路径在LauncherPath选项中指定.\n\n注意 1: 某些类型的固件可能具有错误的NVRAM，不支持启动选项或其他不兼容性。虽然不太可能，但使用此选项甚至可能导致引导失败。该选项应在没有任何保证的情况下专门用于已知兼容的板上.\n\n注意 2: 请注意，从OpenCore执行NVRAM重置时，不应擦除在Bootstrap中创建的引导选项, 在加载OpenCore之前执行NVRAM重置将删除它. 对于重大的实施更新（例如，在OpenCore 0.6.4中），请确保在重新启用前禁用Bootstrap来执行NVRAM重置.";
+
 /* Class = "NSButtonCell"; title = "AllowNvramReset"; ObjectID = "Jpe-QB-x2r"; */
 "Jpe-QB-x2r.title" = "AllowNvramReset\n启用重置Nvram功能";
 
@@ -138,7 +141,7 @@
 "NCW-lH-X8S.ibShadowedToolTip" = "设置启用密码保护时使用密码哈希算法.";
 
 /* Class = "NSButtonCell"; title = "Prefers builtin icons for certain icon categories to match the theme style"; ObjectID = "NFd-Yp-DAy"; */
-"NFd-Yp-DAy.title" = "Prefers builtin icons for certain icon categories to match the theme style";
+"NFd-Yp-DAy.title" = "设置某些图标类别的内置图标以匹配主题样式";
 
 /* Class = "NSTableColumn"; headerCell.title = "Enabled"; ObjectID = "NXw-uw-Jsu"; */
 "NXw-uw-Jsu.headerCell.title" = "启用";
@@ -196,6 +199,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Hibernate Mode"; ObjectID = "TmR-t7-bmq"; */
 "TmR-t7-bmq.title" = "Hibernate Mode\n休眠模式";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: Default\nDescription: Launch path for LauncherOption.\n\nDefault stays for launched OpenCore.efi, any other path, e.g. \\EFI\\Launcher.efi, can be used to provide custom loaders, which are supposed to load OpenCore.efi themselves."; ObjectID = "Uqn-Ww-mAH"; */
+"Uqn-Ww-mAH.ibShadowedToolTip" = "LauncherOption的启动路径.\n\n对于启动OpenCore.efi的其他任何路径(例如，\\EFI\\Launcher.efi, 可用于提供定制启动器, 应该自己加载OpenCore.efi.";
 
 /* Class = "NSButtonCell"; title = "Enable logging to file"; ObjectID = "Uz7-yL-WDQ"; */
 "Uz7-yL-WDQ.title" = "启用记录到文件";
@@ -260,8 +266,8 @@
 /* Class = "NSButtonCell"; title = "Provides predefined label images for boot entries without custom entries"; ObjectID = "dl8-kF-ipf"; */
 "dl8-kF-ipf.title" = "为引导项提供预定义的标签图像，而无需自定义项";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Type: plist boolean\nFailsafe: false\nDescription: Produce system report on ESP folder.\nThis option will create a SysReport directory on ESP partition unless it is already present. The directory will contain ACPI and SMBIOS dumps.\n\nNote: For security reasons SysReport option is not available in RELEASE builds. Use a DEBUG build if this option is needed."; ObjectID = "eFH-QH-phT"; */
-"eFH-QH-phT.ibShadowedToolTip" = "在EFI分区上生成系统报告。\n此选项将在ESP分区上创建SysReport目录， 该目录将包含ACPI和SMBIOS转储。\n\n注意：出于安全原因，RELEASE版本中不提供SysReport功能。如果需要此选项，请使用DEBUG版本。";
+/* Class = "NSButton"; ibShadowedToolTip = "Type: plist boolean\nFailsafe: false\nDescription: Produce system report on ESP folder.\nThis option will create a SysReport directory on ESP partition unless it is already present. The directory will contain ACPI, SMBIOS, and audio codec dumps. Audio codec dumps require an audio backend driver to be loaded.\n\nNote: For security reasons SysReport option is not available in RELEASE builds. Use a DEBUG build if this option is needed."; ObjectID = "eFH-QH-phT"; */
+"eFH-QH-phT.ibShadowedToolTip" = "在EFI分区上生成系统报告。\n此选项将在ESP分区上创建SysReport目录， 该目录将包含ACPI和SMBIOS以及音频codec转储。音频编解码器转储需要加载音频后端驱动程序。\n\n注意：出于安全原因，RELEASE版本中不提供SysReport功能。如果需要此选项，请使用DEBUG版本。";
 
 /* Class = "NSButtonCell"; title = "OC_SCAN_ALLOW_DEVICE_USB"; ObjectID = "eFc-bE-Fl5"; */
 "eFc-bE-Fl5.title" = "允许扫描USB设备";
@@ -294,10 +300,13 @@
 "hRO-hk-wy8.title" = "SerialInit";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Type: plist integer\nFailsafe: 0\nDescription: Sets specific attributes for picker.\nDifferent pickers may be configured through\nthe attribute mask containing OpenCore-reserved (BIT0~BIT15) and OEM-specific (BIT16~BIT31) values.\nCurrent OpenCore values include:\n• 0x0001 — OC_ATTR_USE_VOLUME_ICON, provides custom icons for boot entries:\nFor Tools OpenCore will try to load a custom icon and fallback to the default icon:\n– ResetNVRAM — Resources\\Image\\ResetNVRAM.icns — ResetNVRAM.icns from icons directory.\n– Tools\\<TOOL_RELATIVE_PATH>.icns — icon near the tool file with appended .icns extension.\nFor custom boot Entries OpenCore will try to load a custom icon and fallback to the volume icon or the \ndefault icon:\n– <ENTRY_PATH>.icns — icon near the entry file with appended .icns extension.\nFor all other entries OpenCore will try to load a volume icon and fallback to the default icon:\n\t– .VolumeIcon.icns  file at Preboot root for APFS. \n\t– .VolumeIcon.icns  file at volume root for other filesystems.\n\nVolume icons can be set in Finder. \n• 0x0002 — OC_ATTR_USE_DISK_LABEL_FILE, provides custom rendered titles for boot entries:  \t– .disk_label  (.disk_label_2x) file near bootloader for all filesystems. \t– <TOOL_NAME>.lbl  (<TOOL_NAME>.l2x) file near tool for Tools. Prerendered labels can be generated via disklabel utility or bless command. When disabled or missing text labels (.contentDetails or .disk_label.contentDetails) are to be rendered instead. • 0x0004 — OC_ATTR_USE_GENERIC_LABEL_IMAGE, provides predefined label images for boot entries without custom entries. May give less detail for the actual boot entry. \n• 0x0008 — OC_ATTR_HIDE_THEMED_ICONS, prefers builtin icons for certain icon categories to match the theme style. For example, this could force displaying the builtin Time Machine icon. Requires OC_ATTR_USE_VOLUME_ICON.\n• 0x0010 — OC_ATTR_USE_POINTER_CONTROL, enable pointer control in the picker when available. For example, this could make use of mouse or trackpad to control UI elements."; ObjectID = "hdQ-rL-KAo"; */
-"hdQ-rL-KAo.ibShadowedToolTip" = "设置启动菜单(GUI界面)的属性。\n可以配置自定义的GUI界面风格，设置值包括:\n• 0x0001 —提供引导项的自定义图标:\n\t– APFS分区的预引导根目录下的.VolumeIcon.icns文件。 \n\t– 其他文件系统的卷根目录下的.VolumeIcon.icns文件。\n\t– <TOOL_NAME>.icns的工具图标文件.￼ ￼ ￼\n可以在Finder中设置卷图标。 \n• 0x0002 — 提供引导条目的自定义渲染标题:  \t– 引导器相关的.disk_label（.disk_label_2x）文件，用于所有文件系统。 \t– 工具相关的<TOOL_NAME.lbl和<TOOL_NAME.l2x文件. 可以通过disklabel实用程序或bless命令生成预渲染的标签.禁用或缺少文本标签时 (.contentDetails 或 .disk_label.contentDetails) 将被使用.\n• 0x0004 — 提供引导条目的预定义标签图像，而无需自定义条目. 可能会缺少实际启动项的详细信息. \n• 0x0008 — OC_ATTR_HIDE_THEMED_ICONS, prefers builtin icons for certain icon categories to match the theme style. For example, this could force displaying the builtin Time Machine icon. Requires OC_ATTR_USE_VOLUME_ICON。\n• 0x0010 — 在选择器中启用指针控制(如果可用)。这可以利用鼠标或触控板来控制UI元素。";
+"hdQ-rL-KAo.ibShadowedToolTip" = "设置启动菜单(GUI界面)的属性。\n可以配置自定义的GUI界面风格，设置值包括:\n• 0x0001 —提供引导项的自定义图标:\n\t– APFS分区的预引导根目录下的.VolumeIcon.icns文件。 \n\t– 其他文件系统的卷根目录下的.VolumeIcon.icns文件。\n\t– <TOOL_NAME>.icns的工具图标文件.￼ ￼ ￼\n可以在Finder中设置卷图标。 \n• 0x0002 — 提供引导条目的自定义渲染标题:  \t– 引导器相关的.disk_label（.disk_label_2x）文件，用于所有文件系统。 \t– 工具相关的<TOOL_NAME.lbl和<TOOL_NAME.l2x文件. 可以通过disklabel实用程序或bless命令生成预渲染的标签.禁用或缺少文本标签时 (.contentDetails 或 .disk_label.contentDetails) 将被使用.\n• 0x0004 — 提供引导条目的预定义标签图像，而无需自定义条目. 可能会缺少实际启动项的详细信息. \n• 0x0008 — OC_ATTR_HIDE_THEMED_ICONS, 设置某些图标类别的内置图标以匹配主题样式. 这可能会强制显示内置的Time Machine图标。 需要OC_ATTR_USE_VOLUME_ICON。\n• 0x0010 — 在选择器中启用指针控制(如果可用)。这可以利用鼠标或触控板来控制UI元素。";
 
 /* Class = "NSButtonCell"; title = "OC_SCAN_ALLOW_DEVICE_ATAPI"; ObjectID = "i2m-65-2vq"; */
 "i2m-65-2vq.title" = "允许扫描CD/DVD设备";
+
+/* Class = "NSTextFieldCell"; title = "LauncherOption"; ObjectID = "i5B-oK-z1D"; */
+"i5B-oK-z1D.title" = "LauncherOption";
 
 /* Class = "NSButtonCell"; title = "Download/Update tools"; ObjectID = "i6P-Lb-eX2"; */
 "i6P-Lb-eX2.title" = "下载/更新 EFI工具";
@@ -409,6 +418,9 @@
 
 /* Class = "NSButtonCell"; title = "ApplePanic"; ObjectID = "yaU-Lw-vco"; */
 "yaU-Lw-vco.title" = "ApplePanic";
+
+/* Class = "NSTextFieldCell"; title = "LauncherPath"; ObjectID = "ykx-r5-I09"; */
+"ykx-r5-I09.title" = "LauncherPath";
 
 /* Class = "NSButtonCell"; title = "Expose printable booter path as an UEFI variable."; ObjectID = "z6D-gM-UDa"; */
 "z6D-gM-UDa.title" = "将可打印的引导程序路径公开为UEFI变量.";

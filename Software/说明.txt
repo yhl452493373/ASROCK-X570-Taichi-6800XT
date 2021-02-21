@@ -1,3 +1,3 @@
 AGPMInjector 用于根据自己的显卡生成类似AGPMInjector-iMacPro1,1-RadeonVII.kext的驱动
 diskejectd 需要Xcode并编译，用于忽略有windows动态磁盘时，进Mac提示“无法识别的磁盘“
-OpenCore Configurator 用于编辑oc的配置文件，本efi需要使用官方的0.6.0格式
+OpenCore Configurator 用于编辑oc的配置文件，本efi需要使用官方的0.6.6格式

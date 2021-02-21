@@ -6,7 +6,7 @@ opencore efi for asrock x570 taichi hackintosh
 
 you need to add your own platform data.the product is iMacPro1,1
 
-base on opencore 0.6.5 release
+base on opencore 0.6.6 release
 
 support MacOS 10.15.7 and 11.1
 
@@ -20,7 +20,6 @@ support MacOS 10.15.7 and 11.1
 
 ----
 + sleep not work
-+ bluetooth can not reopen when manual off
 + virtual machines not work
 
 ----
@@ -28,7 +27,7 @@ bios only to do is close csm
 
 do not enable above 4g decoding
 
-bios version <= 3.0
+### bios version <= 3.0
 
 ----
 

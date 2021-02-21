@@ -22,11 +22,11 @@
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		kQJ9FVgKxTcwhGa20gmiENyu4qA=
+		ilB1W4yciP7fwpnpGug8PcQqMD4=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		S2xloc7t7CseGyxFz0YBxSB8oik=
+		sh+uQx1q+bxhYEh5B8pXvgcEqFs=
 		</data>
 		<key>Resources/Audio/Codecs.plist</key>
 		<data>
@@ -60,9 +60,13 @@
 		<data>
 		Ambc8MrOML+8whIezp6X6Q+104g=
 		</data>
-		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-110000.nib</key>
 		<data>
-		ZdL0zPBBTrNU9sqJV+TfEGfEC00=
+		keypM2U5YzqQb4c/bgtHjTUEOSQ=
+		</data>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
+		<data>
+		Xw1RZn7b7FIYye2lV1KJW7MoQXs=
 		</data>
 		<key>Resources/Clover/config_patches.plist</key>
 		<data>
@@ -776,7 +780,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			HHmAgZBQvJPGv1A+0IKqscq5/KA=
+			J8tTyGGPbA8k/kZuzgDpGN33rqk=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sparkle-project.Sparkle" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Ben Baker (V2HRS7667H)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -829,22 +833,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kQJ9FVgKxTcwhGa20gmiENyu4qA=
+			ilB1W4yciP7fwpnpGug8PcQqMD4=
 			</data>
 			<key>hash2</key>
 			<data>
-			hGK6ysaGpKmZ3uHVT33vL68cxLHa815XoZ8hZwYC57M=
+			CV73RcQzoxzYqSTYVRccbZe5UEwNq/ZrcrEApeU2TrY=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S2xloc7t7CseGyxFz0YBxSB8oik=
+			sh+uQx1q+bxhYEh5B8pXvgcEqFs=
 			</data>
 			<key>hash2</key>
 			<data>
-			9k1ALtR6Woe5SZuo3/uWYjKP7fwYPQMzIOfH0d8legQ=
+			j/4d6hV8wLdujGuC/RDvpkUYFxgSgoXhB2G6t8Hpp54=
 			</data>
 		</dict>
 		<key>Resources/Audio/Codecs.plist</key>
@@ -935,15 +939,26 @@
 			IvEE8bp6CbJGGjfw2WB0u+Hcd72l8pEp21qD4pcxYUU=
 			</data>
 		</dict>
-		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZdL0zPBBTrNU9sqJV+TfEGfEC00=
+			keypM2U5YzqQb4c/bgtHjTUEOSQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			lmXmHcBLZendvYZKQseNbfa/F2VajWfIDW8s+9fE+ps=
+			LwLLeZyKoXufOzeq17CRdlOeXEs3ISlS1MQyvAS7bbE=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xw1RZn7b7FIYye2lV1KJW7MoQXs=
+			</data>
+			<key>hash2</key>
+			<data>
+			fn+ifXdzHJc/01s3CANLVcVZcT/rlzj6PP1npN5R2vU=
 			</data>
 		</dict>
 		<key>Resources/Clover/config_patches.plist</key>

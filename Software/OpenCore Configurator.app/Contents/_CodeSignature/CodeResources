@@ -10,15 +10,15 @@
 		</data>
 		<key>Resources/Base.lproj/Document.nib</key>
 		<data>
-		vzY9isWsvF0xlOtDq7oKZSOK4jA=
+		gu7IyETIGI1w2sNWdZiqDY44eOU=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
-		p7bTK4E5jUZId8eae9S3wFsIu6Q=
+		VtEHf7T5EET2izkKk6Vlt6ozTvo=
 		</data>
 		<key>Resources/Base.lproj/OCPropertyListEditorView.nib</key>
 		<data>
-		xywxaGPukxrLaLi8cZdj/en+ZTw=
+		QvACbg01TQu2WDm0I+lMqY04uHU=
 		</data>
 		<key>Resources/Base.lproj/acpiController.nib</key>
 		<data>
@@ -50,35 +50,39 @@
 		</data>
 		<key>Resources/Base.lproj/installACPI.nib</key>
 		<data>
-		Ta9IrfdlpBNMvtcKN1RtHngb3PA=
+		E/SXQjXsdlIOEtNZ8ZI9HNN7yvU=
 		</data>
 		<key>Resources/Base.lproj/installDrivers.nib</key>
 		<data>
-		Wtzpu3YzrNMSzktQRmepGr5ys/M=
+		YtUPQUFnSpXMWerswKFTBwcDTJ0=
 		</data>
 		<key>Resources/Base.lproj/installTools.nib</key>
 		<data>
-		vFWMfra+GCSIP9Q66ZpJKZ/qz6U=
+		5tzEHJWZiIYgugEQkvqoNhnpV7U=
 		</data>
 		<key>Resources/Base.lproj/kernelController.nib</key>
 		<data>
-		X3M22Zt5SkrcuylTLrkZL0sYLyc=
+		19W6TNluc9+xbVKGP4XOcllnM/Q=
 		</data>
 		<key>Resources/Base.lproj/kextsInstaller.nib</key>
 		<data>
-		mA5G1RaGAGQdHWuqbXPNGQxx+1w=
+		CGGkI7dFQq2SaeANyBv+6Oc6U+U=
 		</data>
 		<key>Resources/Base.lproj/miscController.nib</key>
 		<data>
-		nzCDCJoGG39Ed2oNyrXZq2WqLA8=
+		QcG4BNISQu8T3dY5LMw9TyF5tI4=
 		</data>
 		<key>Resources/Base.lproj/mountefi.nib</key>
 		<data>
-		B8mUu+/COSUrrb/bq7/ocpqEPk0=
+		Xt2Qc3Zlfq/X/J8P8j4esIBxHG4=
 		</data>
 		<key>Resources/Base.lproj/nvramController.nib</key>
 		<data>
 		MG64tzDM14kCmxhSKY2HTFH79Ho=
+		</data>
+		<key>Resources/Base.lproj/ocValidator.nib</key>
+		<data>
+		mQZ3UDrmaR3zl4v8rJKxfsgOAns=
 		</data>
 		<key>Resources/Base.lproj/opencoreDownloader.nib</key>
 		<data>
@@ -86,15 +90,15 @@
 		</data>
 		<key>Resources/Base.lproj/platformInfoController.nib</key>
 		<data>
-		PKMJzxjdjL8LPN+3gAiowI7mko8=
+		ce6oTRuxVOzNU+/DU/6G/SaKLBc=
 		</data>
 		<key>Resources/Base.lproj/scanConfig.nib</key>
 		<data>
-		IeQ1GkPGQ5Y1zVyiGCFMfJ4+q1Q=
+		KyCCEvWtNxH5GxqVxQbPjGFnh60=
 		</data>
 		<key>Resources/Base.lproj/uefiController.nib</key>
 		<data>
-		o/y/Q+d/fETzcyJO7na/hyJZseA=
+		lav0CLlQ1I/8LJ8TLcpo6ZNGi78=
 		</data>
 		<key>Resources/Base.lproj/warningScreen.nib</key>
 		<data>
@@ -108,9 +112,13 @@
 		<data>
 		dIvPcAyhBKYnlZ2uyeEH1LI1/QM=
 		</data>
+		<key>Resources/configMaker.nib</key>
+		<data>
+		01L4gi3w1PzjH2GcoWQWzLkIHOo=
+		</data>
 		<key>Resources/database.mom</key>
 		<data>
-		GCjzW3vdakVp00DbNCp9GvFUm0I=
+		HM9VLtgK5UylbZ2UwYHbDIlwjBQ=
 		</data>
 		<key>Resources/en.lproj/AFNetworking.strings</key>
 		<dict>
@@ -152,7 +160,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8CcIvubopqC/i23yrheUm+GuTpo=
+			3VIP3ZT/bNztgFwyDVEi/PTF6To=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -161,7 +169,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qJYnET4tY2mwjFnj7pK2kPv7VEk=
+			Q1PDcTwZzrT0yYbC9MQVTr48zsw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -260,7 +268,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+5VDsxJJ1amTx5zR78d3CiaXOJU=
+			O8IjtXyOlHxk+LLYUXRIlbIWh7Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -278,7 +286,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LXyVa8RR5nABTAiFk0x9pcD8LW0=
+			CYORWBazmUdsc6wvteq/EaAH6Ug=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -301,6 +309,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/ocValidator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D5RQ50IjRCA8hmI/neuUSusrW14=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/opencoreDownloader.strings</key>
 		<dict>
 			<key>hash</key>
@@ -314,7 +331,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tMK+n1nIre/jY72yHPUagf2t2PI=
+			r1Z6HHpQ0U3FZkjr1hodvCmvTVc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -332,7 +349,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kQm5GZ5ahzqHQeJTDJLPUUTMSE8=
+			d3YOKhtQknE4RwQS4vLZa8r24vM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -377,7 +394,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GfDmhXE25NXS/1nRnU1xfiBfGt8=
+			G5juysvoTLoNDq/r+JH31jRxRm8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -526,6 +543,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/fr.lproj/ocValidator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D5RQ50IjRCA8hmI/neuUSusrW14=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/fr.lproj/opencoreDownloader.strings</key>
 		<dict>
 			<key>hash</key>
@@ -602,7 +628,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BKTdG3CgRzuxRablms+EVUmlD5Y=
+			R3blB5ASAKSIlkil76fGGMpJjGU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -751,6 +777,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/ko.lproj/ocValidator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D5RQ50IjRCA8hmI/neuUSusrW14=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/ko.lproj/opencoreDownloader.strings</key>
 		<dict>
 			<key>hash</key>
@@ -787,10 +822,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/ocValidator.nib</key>
-		<data>
-		Cv+cWVUj1qPTwT7hDLcJ1kYa3DU=
-		</data>
 		<key>Resources/pack1.res</key>
 		<data>
 		hXvYxotz5fAYbvG+gVjElrvlBiU=
@@ -805,7 +836,7 @@
 		</data>
 		<key>Resources/quickTools.nib</key>
 		<data>
-		Rj+GSoAPxP9NoSHCNLcHpjj+cBU=
+		HAombGB4RmFKnZMbb0tI4DpY+R8=
 		</data>
 		<key>Resources/zh-Hans.lproj/AFNetworking.strings</key>
 		<dict>
@@ -847,7 +878,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYtfs/ORwfdB60INYvqVgiqxDGM=
+			M2NTmjqIa0pyoQcpASMdxE7okPg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -856,7 +887,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PYgmiU5Q/yOVoUZFNjyuKZ3Eij4=
+			8/8ke7wJ9Sl5Zoo9xaCwCuWvjlI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -955,7 +986,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VKY9pU9X3NJzjAdKz6O1ODCXkRU=
+			wpKQzip1awpZD7mwRxH5tDTMgg4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -973,7 +1004,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			u964PgNYjlHlHRpWejrCSGhiB4E=
+			xjfK2bP41qhTIacK/UdQNy0NxCQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -996,6 +1027,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/ocValidator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jcD1PLEp2mzv2e0Q65IY1IqQ9VA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/opencoreDownloader.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1009,7 +1049,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5HF014+P7QLVDvHABLNRBjnXbSM=
+			TRjhY28oiBP9CXRFpmsFzpobQ3c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1027,7 +1067,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L74E/HwwzRdVJiRei0yp2juIpc8=
+			od6jkZlDaF8V+NO4EJNDLzn8IK4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1140,33 +1180,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vzY9isWsvF0xlOtDq7oKZSOK4jA=
+			gu7IyETIGI1w2sNWdZiqDY44eOU=
 			</data>
 			<key>hash2</key>
 			<data>
-			qPHpzjbHXLR3ZM6ahCrLPt0C21JpW8xIaeOyZ2hP/1s=
+			X74eOar2jd6owtyohACEEOGBcDN/tMJAyAVPDpOhedk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p7bTK4E5jUZId8eae9S3wFsIu6Q=
+			VtEHf7T5EET2izkKk6Vlt6ozTvo=
 			</data>
 			<key>hash2</key>
 			<data>
-			s8mTf5nzyMKYrL1PCkOQ5knm1yGBjmgVVwRNs3ItaLI=
+			vCWffjF8nw8iPsL6AdTiW9zVPmZOyPv1RqNO/aUKJiY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/OCPropertyListEditorView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xywxaGPukxrLaLi8cZdj/en+ZTw=
+			QvACbg01TQu2WDm0I+lMqY04uHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IKQn2W63NWvRlgKmkU/KrSk96OjEELBE1Hz4HTfcqD4=
+			UWTn5AYvkjuwWcJ4G36M4dzmCRoF6Iu4/n2QQrJNuz4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/acpiController.nib</key>
@@ -1250,77 +1290,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ta9IrfdlpBNMvtcKN1RtHngb3PA=
+			E/SXQjXsdlIOEtNZ8ZI9HNN7yvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			oQNWwaJoUhKKKyCz+8qvonOCrSPrYtyPjNfb2g1/yBg=
+			2uu5HZeDDKogzMSbOvW4YHbjAc8I/qpSXVPlzSGpvbg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/installDrivers.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wtzpu3YzrNMSzktQRmepGr5ys/M=
+			YtUPQUFnSpXMWerswKFTBwcDTJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			S7E+/LlTOVfpKcscNI7Y48DCNS9t7UMLm+DlATOSGMA=
+			sujgIZEPtG60J2599LEvGg0I7O69nhAuQPOuxiGAgiw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/installTools.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vFWMfra+GCSIP9Q66ZpJKZ/qz6U=
+			5tzEHJWZiIYgugEQkvqoNhnpV7U=
 			</data>
 			<key>hash2</key>
 			<data>
-			yJQYzupMmxb5FiMuex+6u+G3LZFyb+MWWnmVxM8hZRI=
+			u1B7icVvzVOpXF+PqSVNn30dJhrHOBbub610limIiDU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/kernelController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X3M22Zt5SkrcuylTLrkZL0sYLyc=
+			19W6TNluc9+xbVKGP4XOcllnM/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			FwfPGucsWywxdnkeX+UxFENxGIo6DtvIYg92IoflTwQ=
+			lmVtfdbC8yWMkNu87LR6Ub7awmI+68bz83knB0qhYj0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/kextsInstaller.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mA5G1RaGAGQdHWuqbXPNGQxx+1w=
+			CGGkI7dFQq2SaeANyBv+6Oc6U+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			cXxF9EW6vshxz/OBpMqRPKSy7Mo2UQpfF03SuyLWdxw=
+			49A+9EKCkk9d+23/YnJVZrAXLMK+YfnxAINPA3SaqBI=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/miscController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nzCDCJoGG39Ed2oNyrXZq2WqLA8=
+			QcG4BNISQu8T3dY5LMw9TyF5tI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			gjEDi+LgZsLyacWOcOyfA8eG9PGbwOTmE0HL1zYV5Rc=
+			66uwig4ByMWz8fNfDXGEaN/ccsfEO3qW85caSPLXki8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/mountefi.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B8mUu+/COSUrrb/bq7/ocpqEPk0=
+			Xt2Qc3Zlfq/X/J8P8j4esIBxHG4=
 			</data>
 			<key>hash2</key>
 			<data>
-			+rt/b6BUrsxBkqBDn8EFurPX7lRxkIzWMmbxc8SEn9g=
+			wTrT4sQg2XxkClw+wWnqWIeEqE5DsgYCmNV7sivOslg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/nvramController.nib</key>
@@ -1332,6 +1372,17 @@
 			<key>hash2</key>
 			<data>
 			vbDY2XgkcETe3Kx9QlyirvnK5CTz2rVZgohl+GNV5Io=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/ocValidator.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mQZ3UDrmaR3zl4v8rJKxfsgOAns=
+			</data>
+			<key>hash2</key>
+			<data>
+			8/aK90T5d+55MwfgmapaYggUZ6b/L/1P0+kyloODzGk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/opencoreDownloader.nib</key>
@@ -1349,33 +1400,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PKMJzxjdjL8LPN+3gAiowI7mko8=
+			ce6oTRuxVOzNU+/DU/6G/SaKLBc=
 			</data>
 			<key>hash2</key>
 			<data>
-			CJO4qazaMJc9U6/o8HKi0JPKegr3oMZVOuj3Fx85MU4=
+			tUUF5WRqi5pA7BunGuOjRsu2mi2qhc/ptnZA8pt7fZ0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/scanConfig.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IeQ1GkPGQ5Y1zVyiGCFMfJ4+q1Q=
+			KyCCEvWtNxH5GxqVxQbPjGFnh60=
 			</data>
 			<key>hash2</key>
 			<data>
-			HuKUjvrGe5qFxS9tc1CRqZVUxGFI9+x+41M2O3x9YJA=
+			MiW+Fxhtur69XTTHATdf2VLRTHD3br7FdqW/S5TJfl0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/uefiController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o/y/Q+d/fETzcyJO7na/hyJZseA=
+			lav0CLlQ1I/8LJ8TLcpo6ZNGi78=
 			</data>
 			<key>hash2</key>
 			<data>
-			TZ1zDFueBpqXheBpW4pIar4e3uA3fXny2cWTEfQkoq0=
+			T5aOaUquEXWgziy0SbK4GUIyGB9AA2EoUVNFw7mAqYY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/warningScreen.nib</key>
@@ -1411,15 +1462,26 @@
 			gh6TU8sHe2gjgOst4RnyIVVqQgFmhHqofXQBtnhVFDU=
 			</data>
 		</dict>
+		<key>Resources/configMaker.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			01L4gi3w1PzjH2GcoWQWzLkIHOo=
+			</data>
+			<key>hash2</key>
+			<data>
+			6Trdm4adulSKRPi7p7iBoZh4Qjz/h8RjaphAezHIAcE=
+			</data>
+		</dict>
 		<key>Resources/database.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GCjzW3vdakVp00DbNCp9GvFUm0I=
+			HM9VLtgK5UylbZ2UwYHbDIlwjBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			N0RG83OY+qyKd5Jy4NyTDOwJtkPDamD/Daw8VrM3gDQ=
+			CYDEsdi7kQbcQp1OSbrQq4PeGWbbXykHwg3U0Q7MLzI=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/AFNetworking.strings</key>
@@ -1478,11 +1540,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8CcIvubopqC/i23yrheUm+GuTpo=
+			3VIP3ZT/bNztgFwyDVEi/PTF6To=
 			</data>
 			<key>hash2</key>
 			<data>
-			PpgctSY9ZyTST+D3s6sAMP23JmdBnuldMiqSbsUawPA=
+			czOHEBLvu78vMvlAJeW6wfnd9npvVXol3GB1AvuamYI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1491,11 +1553,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qJYnET4tY2mwjFnj7pK2kPv7VEk=
+			Q1PDcTwZzrT0yYbC9MQVTr48zsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			tnc2Mq/y6aC/d9uHLnxztYnmFTFSRJf6IMTMU1p99gE=
+			SSUgViEsj9bSGJAx4qic9WR6ZgxUJEXJlk+pE5Feh04=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1634,11 +1696,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+5VDsxJJ1amTx5zR78d3CiaXOJU=
+			O8IjtXyOlHxk+LLYUXRIlbIWh7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			vEuQ6Vv8j/jlNMDtCJF2e5VQWMZOKX7wPxDTgPYKnNs=
+			Lm2zlTHpNlQB7e1YAjYw/LGNZ3KCFKMXVVCfZlP2Qbg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1660,11 +1722,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LXyVa8RR5nABTAiFk0x9pcD8LW0=
+			CYORWBazmUdsc6wvteq/EaAH6Ug=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZS18t8WV7nCUltaoQ/uSdNsKxCffFJC5umvZVkWgJzw=
+			rtw4tErtdrwAbKkDKec8oZHmwveFWjWgvpyuXQr07dY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1695,6 +1757,19 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/en.lproj/ocValidator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D5RQ50IjRCA8hmI/neuUSusrW14=
+			</data>
+			<key>hash2</key>
+			<data>
+			rFuwn/MbOwsuEqFWPwQ30isSnZllO7L/M0dI7WDcKbo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/en.lproj/opencoreDownloader.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1712,11 +1787,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tMK+n1nIre/jY72yHPUagf2t2PI=
+			r1Z6HHpQ0U3FZkjr1hodvCmvTVc=
 			</data>
 			<key>hash2</key>
 			<data>
-			r6IkYKHFlo8kVKTORVP7JteDkMkTd9SecayicVK75hw=
+			PYayvkT2jizqSW8lHOqo0PlBD9V90Vpb8nOJcuDhVKs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1738,11 +1813,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kQm5GZ5ahzqHQeJTDJLPUUTMSE8=
+			d3YOKhtQknE4RwQS4vLZa8r24vM=
 			</data>
 			<key>hash2</key>
 			<data>
-			cE7yqDmn42vg7IYmfUk+FuXYjFUV0oJVlQNTd4PUaLc=
+			u3ofKg32RV1dUkr4VRfirlh9zo8isjDQrzPBSYmEmjY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1803,11 +1878,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GfDmhXE25NXS/1nRnU1xfiBfGt8=
+			G5juysvoTLoNDq/r+JH31jRxRm8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XmB562wCVtGFltMENS3P6PYgfGk1wC96IQyWn7DsGd8=
+			idqC3CsVGkiQu4a1VzyyAloPGtcGGfI3FaV6FnxZ27w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2020,6 +2095,19 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/fr.lproj/ocValidator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D5RQ50IjRCA8hmI/neuUSusrW14=
+			</data>
+			<key>hash2</key>
+			<data>
+			rFuwn/MbOwsuEqFWPwQ30isSnZllO7L/M0dI7WDcKbo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/fr.lproj/opencoreDownloader.strings</key>
 		<dict>
 			<key>hash</key>
@@ -2128,11 +2216,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BKTdG3CgRzuxRablms+EVUmlD5Y=
+			R3blB5ASAKSIlkil76fGGMpJjGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Blhu+D3gZS3+UZmGrCZYjBIozx6tiVz3tLP5lTwlt7A=
+			xWNMxMRjjd8HJKcVjkvizxnHM5JxgEKkFmwFibpceN8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2345,6 +2433,19 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/ko.lproj/ocValidator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D5RQ50IjRCA8hmI/neuUSusrW14=
+			</data>
+			<key>hash2</key>
+			<data>
+			rFuwn/MbOwsuEqFWPwQ30isSnZllO7L/M0dI7WDcKbo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/ko.lproj/opencoreDownloader.strings</key>
 		<dict>
 			<key>hash</key>
@@ -2397,17 +2498,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/ocValidator.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Cv+cWVUj1qPTwT7hDLcJ1kYa3DU=
-			</data>
-			<key>hash2</key>
-			<data>
-			fySbbfN+gRJ/oLzp5pWRgkRAXDCAQ3URbXZHh03Cioc=
-			</data>
-		</dict>
 		<key>Resources/pack1.res</key>
 		<dict>
 			<key>hash</key>
@@ -2445,11 +2535,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Rj+GSoAPxP9NoSHCNLcHpjj+cBU=
+			HAombGB4RmFKnZMbb0tI4DpY+R8=
 			</data>
 			<key>hash2</key>
 			<data>
-			BRLuN6F4ne60gOpxfRPr7jDPgYnfgszh/xNZo1f7LDs=
+			rgK0vbZ0zv4gT0jAu2nA9LyaW+Zl+rFWR15ReThuTV8=
 			</data>
 		</dict>
 		<key>Resources/zh-Hans.lproj/AFNetworking.strings</key>
@@ -2508,11 +2598,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYtfs/ORwfdB60INYvqVgiqxDGM=
+			M2NTmjqIa0pyoQcpASMdxE7okPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			om7fUJCJQRahR61K+3RlGNYobQhmZQ+Mu0aQ1vCrUDE=
+			OTRDb24KZ5iDCnZbruZOY3bunrkdX58MEEcuj71A7k0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2521,11 +2611,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PYgmiU5Q/yOVoUZFNjyuKZ3Eij4=
+			8/8ke7wJ9Sl5Zoo9xaCwCuWvjlI=
 			</data>
 			<key>hash2</key>
 			<data>
-			TSf8MY6cO+Aq+3hpKBx8IlFscc3JiPIZu+AnIUeAYUg=
+			sV0Zsml/PDMx3A8Esk6593tyh4SXb3pJWn8dABJ26Is=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2664,11 +2754,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VKY9pU9X3NJzjAdKz6O1ODCXkRU=
+			wpKQzip1awpZD7mwRxH5tDTMgg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			4LkkBXMGrfyozRi+e116YdHaiVSH2xJFnYTP0eT7EEc=
+			x4WP/TjpGR2xo9rK2duRDMDsqHbxRGyv9HT8tdOhodk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2690,11 +2780,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			u964PgNYjlHlHRpWejrCSGhiB4E=
+			xjfK2bP41qhTIacK/UdQNy0NxCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			XRtIrYnUnOV56W5nmxk4HCEFfDI+kBFhvUlWaCnsbgg=
+			RTr8zS3BwJo3/7X+2Ym86b7mc+9GJ/o5SiDRJ4T4xM0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2725,6 +2815,19 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/ocValidator.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jcD1PLEp2mzv2e0Q65IY1IqQ9VA=
+			</data>
+			<key>hash2</key>
+			<data>
+			sNyWjA1RDoDTD6vmMsaURlSkYKEHM3qkLpf/HABYCBo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/opencoreDownloader.strings</key>
 		<dict>
 			<key>hash</key>
@@ -2742,11 +2845,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5HF014+P7QLVDvHABLNRBjnXbSM=
+			TRjhY28oiBP9CXRFpmsFzpobQ3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			IWz1jFDmfhc8xaK8rPgGZQD9lAbG9Ec+4h75hrSCOfs=
+			MXjdi1iZc31HeIJbONJifpMI3XKuV4VAVgFVTKn5o90=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2768,11 +2871,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L74E/HwwzRdVJiRei0yp2juIpc8=
+			od6jkZlDaF8V+NO4EJNDLzn8IK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ca71hr4e+yd2LZFgXl4nJ63ROgdAKrhitEtGEUEmQ9U=
+			6hnLrMKB6zLEbqSk3ts6Agse53E/M3I261OZnB5Egos=
 			</data>
 			<key>optional</key>
 			<true/>
