@@ -6,9 +6,11 @@ opencore efi for asrock x570 taichi hackintosh
 
 you need to add your own platform data.the product is iMacPro1,1
 
-base on opencore 0.6.6 release
+base on opencore 0.6.7 release
 
-support MacOS 10.15.7 and 11.1
+support MacOS 11.2.2,not test on 10.15.x
+
+## please clean nvram after replace efi
 
 ----
 + asrock x570 taichi
