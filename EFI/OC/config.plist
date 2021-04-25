@@ -2,14 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#WARNING - 1</key>
-	<string>This is just a sample. Do NOT try loading it.</string>
-	<key>#WARNING - 2</key>
-	<string>Ensure you understand EVERY field before booting.</string>
-	<key>#WARNING - 3</key>
-	<string>In most cases recommended to use Sample.plist</string>
-	<key>#WARNING - 4</key>
-	<string>Use SampleCustom.plist only for special cases.</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -32,65 +24,9 @@
 			</dict>
 		</array>
 		<key>Delete</key>
-		<array>
-			<dict>
-				<key>All</key>
-				<false/>
-				<key>Comment</key>
-				<string>Delete CpuPm</string>
-				<key>Enabled</key>
-				<false/>
-				<key>OemTableId</key>
-				<data>Q3B1UG0AAAA=</data>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>U1NEVA==</data>
-			</dict>
-			<dict>
-				<key>All</key>
-				<false/>
-				<key>Comment</key>
-				<string>Delete Cpu0Ist</string>
-				<key>Enabled</key>
-				<false/>
-				<key>OemTableId</key>
-				<data>Q3B1MElzdAA=</data>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data>U1NEVA==</data>
-			</dict>
-		</array>
+		<array/>
 		<key>Patch</key>
-		<array>
-			<dict>
-				<key>Comment</key>
-				<string>Replace one byte sequence with another</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>ESIzRA==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>RDMiEQ==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-		</array>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>FadtEnableReset</key>
@@ -108,51 +44,9 @@
 	<key>Booter</key>
 	<dict>
 		<key>MmioWhitelist</key>
-		<array>
-			<dict>
-				<key>Address</key>
-				<integer>4275159040</integer>
-				<key>Comment</key>
-				<string>Haswell: SB_RCBA is a 0x4 page memory region, containing SPI_BASE at 0x3800 (SPI_BASE_ADDRESS)</string>
-				<key>Enabled</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Address</key>
-				<integer>4278190080</integer>
-				<key>Comment</key>
-				<string>Generic: PCI root is a 0x1000 page memory region used by some types of firmware</string>
-				<key>Enabled</key>
-				<false/>
-			</dict>
-		</array>
+		<array/>
 		<key>Patch</key>
-		<array>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>Comment</key>
-				<string>macOS to hacOS</string>
-				<key>Count</key>
-				<integer>1</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>bWFjT1M=</data>
-				<key>Identifier</key>
-				<string>Apple</string>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>Replace</key>
-				<data>aGFjT1M=</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-			</dict>
-		</array>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>AllowRelocationBlock</key>
@@ -171,6 +65,8 @@
 			<true/>
 			<key>EnableWriteUnprotector</key>
 			<true/>
+			<key>ForceBooterSignature</key>
+			<false/>
 			<key>ForceExitBootServices</key>
 			<false/>
 			<key>ProtectMemoryRegions</key>
@@ -268,7 +164,7 @@
 				<key>Comment</key>
 				<string>Video patches</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/WhateverGreen</string>
 				<key>MaxKernel</key>
@@ -390,7 +286,7 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>USBPorts-iMacPro1,1.kext</string>
+				<string>USBPorts-MacPro7,1.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -406,22 +302,7 @@
 			</dict>
 		</array>
 		<key>Block</key>
-		<array>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>Identifier</key>
-				<string>com.apple.driver.AppleTyMCEDriver</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-			</dict>
-		</array>
+		<array/>
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
@@ -436,28 +317,7 @@
 			<string></string>
 		</dict>
 		<key>Force</key>
-		<array>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>System/Library/Extensions/IONetworkingFamily.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/IONetworkingFamily</string>
-				<key>Identifier</key>
-				<string>com.apple.iokit.IONetworkingFamily</string>
-				<key>MaxKernel</key>
-				<string>13.99.99</string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-		</array>
+		<array/>
 		<key>Patch</key>
 		<array>
 			<dict>
@@ -1634,7 +1494,7 @@
 			<key>PanicNoKextDump</key>
 			<false/>
 			<key>PowerTimeoutKernelPanic</key>
-			<false/>
+			<true/>
 			<key>SetApfsTrimTimeout</key>
 			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
@@ -1705,24 +1565,7 @@
 			<integer>3</integer>
 		</dict>
 		<key>Entries</key>
-		<array>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string>Not signed for security reasons</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>CustomOS</string>
-				<key>Path</key>
-				<string>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)/NVMe(0x1,11-22-33-44-55-66-77-88)/HD(1,GPT,00000000-0000-0000-0000-000000000000,0x800,0x64000)/\EFI\BOOT\BOOTX64.EFI</string>
-				<key>TextMode</key>
-				<false/>
-			</dict>
-		</array>
+		<array/>
 		<key>Security</key>
 		<dict>
 			<key>AllowNvramReset</key>
@@ -1776,42 +1619,6 @@
 			</dict>
 			<dict>
 				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string>Not signed for security reasons</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>UEFI Shell</string>
-				<key>Path</key>
-				<string>OpenShell.efi</string>
-				<key>RealPath</key>
-				<false/>
-				<key>TextMode</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string>Memory testing utility</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>memcheck</string>
-				<key>Path</key>
-				<string>memcheck/memcheck.efi</string>
-				<key>RealPath</key>
-				<false/>
-				<key>TextMode</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Arguments</key>
 				<string>Shutdown</string>
 				<key>Auxiliary</key>
 				<true/>
@@ -1851,7 +1658,7 @@
 				<key>#csr-active-config</key>
 				<data>dwgAAA==</data>
 				<key>boot-args</key>
-				<string>-v npci=0x3000</string>
+				<string>-v</string>
 				<key>prev-lang:kbd</key>
 				<data>emgtSGFuczoyNTI=</data>
 			</dict>
@@ -1912,7 +1719,7 @@
 		<key>Automatic</key>
 		<true/>
 		<key>CustomMemory</key>
-		<false/>
+		<true/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
@@ -1920,9 +1727,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02732101QXJG36A8</string>
+			<string>F5K910405GUFHDDUE</string>
 			<key>ProcessorType</key>
-			<integer>3841</integer>
+			<integer>3842</integer>
 			<key>ROM</key>
 			<data>IeGL7QNB</data>
 			<key>SpoofVendor</key>
@@ -1930,11 +1737,247 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V60K7HX87</string>
+			<string>F5KYD2YQP7QM</string>
 			<key>SystemUUID</key>
-			<string>BCC722A9-38EF-4033-A6AB-8F232F6B98DE</string>
+			<string>30260FC5-218E-4F9B-9C31-40D46232EB66</string>
+		</dict>
+		<key>Memory</key>
+		<dict>
+			<key>DataWidth</key>
+			<integer>64</integer>
+			<key>Devices</key>
+			<array>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_A1</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563378</string>
+					<key>Size</key>
+					<integer>16384</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_A2</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563301</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_B1</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D456337B</string>
+					<key>Size</key>
+					<integer>16384</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_B2</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563302</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_C1</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563303</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_C2</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563304</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_D1</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563382</string>
+					<key>Size</key>
+					<integer>16384</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_D2</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563305</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_E1</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D456337A</string>
+					<key>Size</key>
+					<integer>16384</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_E2</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563306</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_F1</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563307</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_F2</string>
+					<key>Manufacturer</key>
+					<string>Asgard</string>
+					<key>PartNumber</key>
+					<string>VMA42UI-MIC1U22T2</string>
+					<key>SerialNumber</key>
+					<string>D4563308</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>2666</integer>
+				</dict>
+			</array>
+			<key>ErrorCorrection</key>
+			<integer>3</integer>
+			<key>FormFactor</key>
+			<integer>9</integer>
+			<key>MaxCapacity</key>
+			<integer>137438953472</integer>
+			<key>TotalWidth</key>
+			<integer>64</integer>
+			<key>Type</key>
+			<integer>26</integer>
+			<key>TypeDetail</key>
+			<integer>16512</integer>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1964,6 +2007,21 @@
 			<key>MinVersion</key>
 			<integer>0</integer>
 		</dict>
+		<key>AppleInput</key>
+		<dict>
+			<key>AppleEvent</key>
+			<string>Auto</string>
+			<key>CustomDelays</key>
+			<string>Auto</string>
+			<key>KeyInitialDelay</key>
+			<integer>50</integer>
+			<key>KeySubsequentDelay</key>
+			<integer>5</integer>
+			<key>PointerSpeedDiv</key>
+			<integer>1</integer>
+			<key>PointerSpeedMul</key>
+			<integer>1</integer>
+		</dict>
 		<key>Audio</key>
 		<dict>
 			<key>AudioCodec</key>
@@ -1989,20 +2047,9 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlus.efi</string>
+			<string>OpenHfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenCanopy.efi</string>
-			<string>#AudioDxe.efi</string>
-			<string>#OpenPartitionDxe.efi</string>
-			<string>#OpenUsbKbDxe.efi</string>
-			<string>#UsbMouseDxe.efi</string>
-			<string>#Ps2KeyboardDxe.efi</string>
-			<string>#Ps2MouseDxe.efi</string>
-			<string>#HiiDatabase.efi</string>
-			<string>#NvmExpressDxe.efi</string>
-			<string>#XhciDxe.efi</string>
-			<string>#ExFatDxe.efi</string>
-			<string>#CrScreenshotDxe.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
@@ -2060,8 +2107,6 @@
 			<false/>
 			<key>AppleDebugLog</key>
 			<false/>
-			<key>AppleEvent</key>
-			<false/>
 			<key>AppleFramebufferInfo</key>
 			<false/>
 			<key>AppleImageConversion</key>
@@ -2111,32 +2156,7 @@
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
-		<array>
-			<dict>
-				<key>Address</key>
-				<integer>268435456</integer>
-				<key>Comment</key>
-				<string>HD3000: IGPU memory corruption errata</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Size</key>
-				<integer>268435456</integer>
-				<key>Type</key>
-				<string>Reserved</string>
-			</dict>
-			<dict>
-				<key>Address</key>
-				<integer>569344</integer>
-				<key>Comment</key>
-				<string>Fix black screen on wake from hibernation for Lenovo Thinkpad T490</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Size</key>
-				<integer>4096</integer>
-				<key>Type</key>
-				<string>RuntimeCode</string>
-			</dict>
-		</array>
+		<array/>
 	</dict>
 </dict>
 </plist>

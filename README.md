@@ -1,66 +1,35 @@
-# OpenCore ASROCK-X570-Taichi---Radeon-VII
+#OpenCore EFI for ASRock x570 Taichi and AMD RX 6800XT hackintosh
 
+---
+since 2021/04/25,my video card change to RX6800XT,but this EFI should also working with other video card,such as Radeon VII,5700XT,RX 580
+
+Change Log:
+
+2021/04/25
++ In order to drive RX 6800XT, change platform from iMacPro1,1 to MacPro7,1
++ Disable WhatEverGreen( if you need it,you can enable it by yourself.)
++ Customize Memory Setting to solve Memory Warning on MacPro ( see [Customize Memory to fixed Memory Warning](Customize%20Memory%20to%20fixed%20Memory%20Warning%20.png)  )
 ----
 
-opencore efi for asrock x570 taichi hackintosh
+You need to add your own platform data.The product is MacPro7,1
 
-you need to add your own platform data.the product is iMacPro1,1
-
-base on opencore 0.6.7 release
-
-support MacOS 11.2.2,not test on 10.15.x
-
-## please clean nvram after replace efi
++ base on OpenCore 0.6.8 release
++ support macOS 10.15.7 and 11 ( if you are use 6800,6800XT or 6900XT,you need macOS 11.4 Beta+ )
 
 ----
 + asrock x570 taichi
-+ amd ryzen7 3700x
++ amd ryzen 7 3700x
 + ddr4 32G x 4
-+ amd radeon vii (HIS with Sapphire bios)
++ amd RX 6800 XT
 + sata 1t ssd + asgard 2t nvme ssd
 + bcm943602cdp wifi & bt
 
 ----
-+ sleep not work
-+ virtual machines not work
++ sleep not working
++ virtual machines not working
 
 ----
-bios only to do is close csm
-
-do not enable above 4g decoding
-
-### bios version <= 3.0
-
-----
-
-first,clean nvram by opencore.
-
-now do not set csr-active-config.please delete it,and then boot into recovery.
-
-for 10.15, use csrutil disable to close sip;
-
-for big sur,also need csrutil authenticated-root disable . 
-
-after that ,reboot into recovery and execute mount -uw /Volumes/BigSur\ Volume to make big sur system partition writeable.
-
-use diskutil list to find which disk is big sur(not big sur data),it look like 
-
-APFS Volume ⁨macOS Big Sur⁩           15.5 GB    disk4s5
-
-remember disk4s5
-
-follow this command step:
-
-diskutil apfs listSnapshots disk4s5
-
-diskutil apfs deletesnapshop  disk4s5 -name snapshotname
-
-you may need many times of diskutil apfs deletesnapshop  disk4s5 -name snapshotname util there is no snapshot
-
-when all snapshot delete,you can restart.
-
-for more information,please visit http://bbs.pcbeta.com/viewthread-1863022-1-1.html
-
-----
-
-thanks for https://github.com/dangthaison91/Ryzen-Hackintosh
+BIOS setup:
++ Disable csm
++ Enable Above 4g Decoding
++ Disable ResizeBAR

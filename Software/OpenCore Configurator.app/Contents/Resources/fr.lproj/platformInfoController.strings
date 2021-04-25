@@ -8,6 +8,9 @@
 /* Class = "NSTextFieldCell"; title = "UpdateSMBIOSMode"; ObjectID = "0uc-j4-cpH"; */
 "0uc-j4-cpH.title" = "UpdateSMBIOSMode";
 
+/* Class = "NSButton"; ibShadowedToolTip = "Type: plist boolean\nFailsafe: false\nDescription: Use raw encoding for SMBIOS UUIDs.\n\nEach UUID AABBCCDD-EEFF-GGHH-IIJJ-KKLLMMNNOOPP is essentially a hexadecimal 16-byte number. It can be encoded in two ways:\n• Big Endian — by writing all the bytes as they are without making any order changes ({AA BB CC DD EE FF GG HH II JJ KK LL MM NN OO PP}). This method is also known as RFC 4122 encoding or Raw encoding.\n• Little Endian — by interpreting the bytes as numbers and using Little Endian byte representation ({DD CC BB AA FF EE HH GG II JJ KK LL MM NN OO PP}).\nSMBIOS specification did not explicitly specify the encoding format for the UUID up to SMBIOS 2.6, where it stated that Little Endian encoding shall be used. This led to the confusion in both firmware implementations and system software as different vendors used different encodings prior to that.\n• Apple uses Big Endian format everywhere but it ignores SMBIOS UUID within macOS.\n• dmidecode uses Big Endian format for SMBIOS 2.5.x or lower and Little Endian for 2.6 and newer.\nAcidanthera dmidecode prints all the three.\n• Windows uses Little Endian format everywhere, but it only affects the visual representation of the values.\n\nOpenCore always sets a recent SMBIOS version (currently 3.2) when generating the modified DMI tables. If UseRawUuidEncoding is enabled, then Big Endian format is used to store the SystemUUID data. Otherwise Little Endian is used.\n\nNote: Since UUIDs used in DataHub and NVRAM are not standardised and are added by Apple, this preference does not affect them. Unlike SMBIOS they are always stored in the Big Endian format."; ObjectID = "1BR-wt-792"; */
+"1BR-wt-792.ibShadowedToolTip" = "Type: plist boolean\nFailsafe: false\nDescription: Use raw encoding for SMBIOS UUIDs.\n\nEach UUID AABBCCDD-EEFF-GGHH-IIJJ-KKLLMMNNOOPP is essentially a hexadecimal 16-byte number. It can be encoded in two ways:\n• Big Endian — by writing all the bytes as they are without making any order changes ({AA BB CC DD EE FF GG HH II JJ KK LL MM NN OO PP}). This method is also known as RFC 4122 encoding or Raw encoding.\n• Little Endian — by interpreting the bytes as numbers and using Little Endian byte representation ({DD CC BB AA FF EE HH GG II JJ KK LL MM NN OO PP}).\nSMBIOS specification did not explicitly specify the encoding format for the UUID up to SMBIOS 2.6, where it stated that Little Endian encoding shall be used. This led to the confusion in both firmware implementations and system software as different vendors used different encodings prior to that.\n• Apple uses Big Endian format everywhere but it ignores SMBIOS UUID within macOS.\n• dmidecode uses Big Endian format for SMBIOS 2.5.x or lower and Little Endian for 2.6 and newer.\nAcidanthera dmidecode prints all the three.\n• Windows uses Little Endian format everywhere, but it only affects the visual representation of the values.\n\nOpenCore always sets a recent SMBIOS version (currently 3.2) when generating the modified DMI tables. If UseRawUuidEncoding is enabled, then Big Endian format is used to store the SystemUUID data. Otherwise Little Endian is used.\n\nNote: Since UUIDs used in DataHub and NVRAM are not standardised and are added by Apple, this preference does not affect them. Unlike SMBIOS they are always stored in the Big Endian format.";
+
 /* Class = "NSTextFieldCell"; title = "ROM"; ObjectID = "1Sc-Fb-KaM"; */
 "1Sc-Fb-KaM.title" = "ROM";
 
@@ -80,6 +83,9 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: Not installed\nDescription: Sets name in gEfiMiscSubClassGuid. Value found on Macs is platform in ASCII."; ObjectID = "BJm-4X-red"; */
 "BJm-4X-red.ibShadowedToolTip" = "Par défaut: non installé \n Description: définissez un nom dans gEfiMiscSubClassGuid. La valeur trouvée sur le Mac est la plate-forme ASCII.";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: Empty (Not installed)\nDescription: Specifies the values of NVRAM variables 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14:HW_SSN and 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14:SSN."; ObjectID = "Bwi-9B-eFc"; */
+"Bwi-9B-eFc.ibShadowedToolTip" = "Type: plist string\nFailsafe: Empty (Not installed)\nDescription: Specifies the values of NVRAM variables 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14:HW_SSN and 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14:SSN.";
+
 /* Class = "NSTextFieldCell"; title = "Board"; ObjectID = "CDl-Mt-vej"; */
 "CDl-Mt-vej.title" = "Board";
 
@@ -91,9 +97,6 @@
 
 /* Class = "NSTextFieldCell"; title = "MemoryFormFactor"; ObjectID = "CxA-si-OgU"; */
 "CxA-si-OgU.title" = "MemoryFormFactor";
-
-/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: OEM specified\nSMBIOS: System Enclosure or Chassis (Type 3) — Asset Tag Number Description: Chassis type name. Varies, could be empty or MacBook-Aluminum."; ObjectID = "D26-kV-2wQ"; */
-"D26-kV-2wQ.ibShadowedToolTip" = "Valeur par défaut: OEM spécifié \nSMBIOS: Châssis du système ou châssis (type 3) -Numéro de balise d'actif Description: nom du type de châssis. Divers, peut être vide ou MacBook-Aluminium.";
 
 /* Class = "NSTextFieldCell"; title = "Asset Tag"; ObjectID = "FGe-q0-v48"; */
 "FGe-q0-v48.title" = "Asset Tag";
@@ -155,8 +158,14 @@
 /* Class = "NSButtonCell"; title = "Add this section in config.plist"; ObjectID = "JEO-9d-aFI"; */
 "JEO-9d-aFI.title" = "Ajoutez cette section dans config.plist";
 
+/* Class = "NSButtonCell"; title = "UseRawUuidEncoding"; ObjectID = "JEw-8f-crY"; */
+"JEw-8f-crY.title" = "UseRawUuidEncoding";
+
 /* Class = "NSButtonCell"; title = "AdviseWindows"; ObjectID = "Jk7-vn-L68"; */
 "Jk7-vn-L68.title" = "AdviseWindows";
+
+/* Class = "NSTextFieldCell"; title = "System Serial Number"; ObjectID = "K3Y-PC-Vyv"; */
+"K3Y-PC-Vyv.title" = "System Serial Number";
 
 /* Class = "NSButtonCell"; title = "Generate"; ObjectID = "KNP-Ab-25u"; */
 "KNP-Ab-25u.title" = "Générer";
@@ -187,6 +196,12 @@
 
 /* Class = "NSTextFieldCell"; title = "Location In Chassis"; ObjectID = "NKp-1W-cwW"; */
 "NKp-1W-cwW.title" = "Location In Chassis";
+
+/* Class = "NSTextFieldCell"; title = "System UUID"; ObjectID = "Nh2-fC-Gmv"; */
+"Nh2-fC-Gmv.title" = "System UUID";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: Empty (Not installed)\nDescription: Specifies the value of NVRAM variable 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14:system-id for boot services only. Value found on Macs is equal to SMBIOS SystemUUID."; ObjectID = "Nq6-s5-69T"; */
+"Nq6-s5-69T.ibShadowedToolTip" = "Type: plist string\nFailsafe: Empty (Not installed)\nDescription: Specifies the value of NVRAM variable 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14:system-id for boot services only. Value found on Macs is equal to SMBIOS SystemUUID.";
 
 /* Class = "NSTextFieldCell"; title = "Features"; ObjectID = "Ntb-g0-8oU"; */
 "Ntb-g0-8oU.title" = "Features";
@@ -314,11 +329,14 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Type: plist integer\nFailsafe: 0\nSMBIOS: APPLE_SMBIOS_TABLE_TYPE133 - PlatformFeature\nDescription: Platform features bitmask. Refer to AppleFeatures.h for more details."; ObjectID = "Yog-wn-LaZ"; */
 "Yog-wn-LaZ.ibShadowedToolTip" = "Valeur par défaut: 0 \nSMBIOS: APPLE_SMBIOS_TABLE_TYPE133-PlatformFeature \n Description: masque de bits de fonction de plate-forme. Pour plus de détails, consultez AppleFeatures.h.";
 
+/* Class = "NSButtonCell"; title = "Your SMBIOS needs to be updated"; ObjectID = "YyS-LF-pEM"; */
+"YyS-LF-pEM.title" = "Your SMBIOS needs to be updated";
+
 /* Class = "NSButton"; ibShadowedToolTip = "Type: plist boolean\nFailsafe: false\nDescription: Sets SMBIOS vendor fields to Acidanthera.\nIt is dangerous to use Apple in SMBIOS vendor fields for reasons given in SystemManufacturer description. However, certain firmwares may not provide valid values otherwise, which could break some software."; ObjectID = "Z8Z-8r-mnL"; */
 "Z8Z-8r-mnL.ibShadowedToolTip" = "Sélectionnez OUI (le fabricant de contrefaçon est Acidanthera pour éviter les conflits).";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: OEM specified\nSMBIOS: System Information (Type 1) — Serial Number\nDescription: Product serial number in defined format. Known formats are described in macserial."; ObjectID = "a03-aA-XtL"; */
-"a03-aA-XtL.ibShadowedToolTip" = "Type: chaîne de plist \nValeur par défaut: spécifique à l'OEM \nSMBIOS: Informations système (type 1) -Numéro de série \n Description: Numéro de série du produit dans un format défini. Le format connu est décrit dans macserial.";
+/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: Empty (OEM specified)\nSMBIOS: System Information (Type 1) — Serial Number\nDescription: Product serial number in defined format. Known formats are described in macserial."; ObjectID = "a03-aA-XtL"; */
+"a03-aA-XtL.ibShadowedToolTip" = "Type: plist string\nFailsafe: Empty (OEM specified)\nSMBIOS: System Information (Type 1) — Serial Number\nDescription: Product serial number in defined format. Known formats are described in macserial.";
 
 /* Class = "NSTextFieldCell"; title = "Features Mask"; ObjectID = "aAi-r5-EIk"; */
 "aAi-r5-EIk.title" = "Features Mask";
@@ -332,6 +350,9 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Type: plist data, 8 bytes\nFailsafe: Not installed\nDescription: Sets RBr in gEfiMiscSubClassGuid. Custom property read by VirtualSMC or FakeSMC to generate SMC RBr key."; ObjectID = "bTa-i4-4eq"; */
 "bTa-i4-4eq.ibShadowedToolTip" = "Par défaut: non installé \n Description: définissez RBr dans gEfiMiscSubClassGuid. Attributs personnalisés lus par VirtualSMC ou FakeSMC pour générer des clés SMC RBr.";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist data, 8 bytes\nFailsafe: Empty (Not installed)\nDescription: Sets RBr in gEfiMiscSubClassGuid. Custom property read by VirtualSMC or FakeSMC to generate SMC RBr key."; ObjectID = "bTa-i4-4eq"; */
+"bTa-i4-4eq.ibShadowedToolTip" = "Type: plist data, 8 bytes\nFailsafe: Empty (Not installed)\nDescription: Sets RBr in gEfiMiscSubClassGuid. Custom property read by VirtualSMC or FakeSMC to generate SMC RBr key.";
+
 /* Class = "NSTextFieldCell"; title = "System UUID"; ObjectID = "baC-2d-vGR"; */
 "baC-2d-vGR.title" = "System UUID";
 
@@ -340,6 +361,9 @@
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: OEM specified\nSMBIOS: Baseboard (or Module) Information (Type 2) - Version\nDescription: Board version number. Varies, may match SystemProductName or SystemProductVersion."; ObjectID = "cWR-8m-2Jn"; */
 "cWR-8m-2Jn.ibShadowedToolTip" = "Valeur par défaut: spécifique à l'OEM \nSMBIOS: informations sur le fond de panier (ou le module) (Type 2) -Version \n Description: numéro de version de la carte. Les modifications peuvent correspondre à SystemProductName ou SystemProductVersion.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: Empty (OEM specified)\nSMBIOS: Baseboard (or Module) Information (Type 2) - Version\nDescription: Board version number. Varies, may match SystemProductName or SystemProductVersion."; ObjectID = "cWR-8m-2Jn"; */
+"cWR-8m-2Jn.ibShadowedToolTip" = "Type: plist string\nFailsafe: Empty (OEM specified)\nSMBIOS: Baseboard (or Module) Information (Type 2) - Version\nDescription: Board version number. Varies, may match SystemProductName or SystemProductVersion.";
 
 /* Class = "NSTextFieldCell"; title = "InitialTSC"; ObjectID = "dDc-Pn-pL2"; */
 "dDc-Pn-pL2.title" = "InitialTSC";
@@ -367,6 +391,9 @@
 
 /* Class = "NSSegmentedCell"; eez-pY-d3O.ibShadowedLabels[1] = "Hack"; ObjectID = "eez-pY-d3O"; */
 "eez-pY-d3O.ibShadowedLabels[1]" = "Hack";
+
+/* Class = "NSButtonCell"; title = "Update Firmware Only"; ObjectID = "fU3-BB-2dv"; */
+"fU3-BB-2dv.title" = "Update Firmware Only";
 
 /* Class = "NSButtonCell"; title = "Add this section in config.plist"; ObjectID = "fWq-dP-cDy"; */
 "fWq-dP-cDy.title" = "Ajoutez cette section dans config.plist";
@@ -455,9 +482,6 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: OEM specified\nSMBIOS: Baseboard (or Module) Information (Type 2) - Manufacturer Description: Board manufacturer. All rules of SystemManufacturer do apply."; ObjectID = "mON-cg-FYL"; */
 "mON-cg-FYL.ibShadowedToolTip" = "Valeur par défaut: spécifique à l'OEM \nSMBIOS: informations sur le fond de panier (ou le module) (type 2) -Description du fabricant: fabricant de la carte de circuit imprimé. Toutes les règles SystemManufacturer s'appliquent.";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Type: plist string\nFailsafe: OPENCORE_SN1\nDescription: Refer to SMBIOS SystemSerialNumber."; ObjectID = "mPV-Tv-466"; */
-"mPV-Tv-466.ibShadowedToolTip" = "Valeur par défaut: OPENCORE_SN1 \n Description: Voir SMBIOS SystemSerialNumber.";
-
 /* Class = "NSTextFieldCell"; title = "BID"; ObjectID = "mqi-pJ-IwL"; */
 "mqi-pJ-IwL.title" = "BID";
 
@@ -468,7 +492,7 @@
 "o9h-XT-hbD.ibShadowedToolTip" = "Valeur par défaut: non installé \n Description: définissez le modèle dans gEfiMiscSubClassGuid. La valeur trouvée sur le Mac est égale à SMBIOS SystemProductName en Unicode.";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Type: plist data, 16 bytes\nFailsafe: All zero\nSMBIOS: APPLE_SMBIOS_TABLE_TYPE134 - Version\nDescription: ASCII string containing SMC version in upper case. Missing on T2 based Macs. Ignored when zero."; ObjectID = "oMm-l1-RDC"; */
-"oMm-l1-RDC.ibShadowedToolTip" = "Allez sur le site officiel d'Apple pour voir quels sont vos trois mètres, mais nous sommes des pommes noires, hé, vous savez！";
+"oMm-l1-RDC.ibShadowedToolTip" = "Allez sur le site officiel d'Apple pour voir quels sont vos trois mètres, mais nous sommes des pommes noires, hé, vous savez!";
 
 /* Class = "NSButtonCell"; title = "CustomMemory"; ObjectID = "olD-tN-2HW"; */
 "olD-tN-2HW.title" = "CustomMemory";
