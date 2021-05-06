@@ -5,10 +5,13 @@ since 2021/04/25,my video card change to RX6800XT,but this EFI should also worki
 
 Change Log:
 
+2021/05/06
++ update kexts to newest
++ update oc to 0.6.9
+
 2021/04/25
 + In order to drive RX 6800XT, change platform from iMacPro1,1 to MacPro7,1
 + Disable WhatEverGreen( if you need it,you can enable it by yourself.)
-+ Customize Memory Setting to solve Memory Warning on MacPro ( see [Customize Memory to fixed Memory Warning](Customize%20Memory%20to%20fixed%20Memory%20Warning%20.png)  )
 ----
 
 You need to add your own platform data.The product is MacPro7,1
