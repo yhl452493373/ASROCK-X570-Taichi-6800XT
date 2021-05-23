@@ -8,9 +8,9 @@
 
 echo ${1}
 pushd /tmp >/dev/null || exit 1
-curl -OLs http://ftp.gnu.org/gnu/gettext/gettext-0.18.2.tar.gz || exit 1
-tar -zxf gettext-0.18.2.tar.gz || exit 1
-cd gettext-0.18.2
+curl -OLs http://ftp.gnu.org/gnu/gettext/gettext-0.21.tar.gz || exit 1
+tar -zxf gettext-0.21.tar.gz || exit 1
+cd gettext-0.21
 echo ${2}
 ./configure -q || exit 1
 make install >/dev/null || exit 1
