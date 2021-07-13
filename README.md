@@ -7,7 +7,7 @@ Change Log:
 
 ----
 2021/07/13
-+ remap usb port to make sleep working
++ remap usb port to make sleep working.(must restart from windows to macos)
 ----
 
 2021/07/07
@@ -44,6 +44,7 @@ You need to add your own platform data.The product is MacPro7,1
 
 ----
 + virtual machines not working
++ sleep is partly working.(must restart from windows to macos)
 + the internal Intel AX200 Bluetooth is blocked,because if it is not shielded,other Bluetooth devices will not work properly.
 
 ----
