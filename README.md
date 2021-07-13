@@ -4,6 +4,12 @@
 since 2021/04/25,my video card change to RX6800XT,but this EFI should also working with other video card,such as Radeon VII,5700XT,RX 580
 
 Change Log:
+
+----
+2021/07/13
++ remap usb port to make sleep working
+----
+
 2021/07/07
 + update kexts to newest
 + update oc to 0.7.1
@@ -37,10 +43,8 @@ You need to add your own platform data.The product is MacPro7,1
 + bcm943602cdp wifi & bt
 
 ----
-+ sleep not working
 + virtual machines not working
-+ the USB port close to P2S cannot work when it is inserted into a USB2 device,but USB3 is ok.
-+ the internal Intel AX200 Bluetooth is blocked,because if it is not shielded,other Bluetooth devices will not work properly.If you still want to use Intel Bluetooth,pleace replace the content of Info.plist under USBPort.kext with the content of another file with a very long name.
++ the internal Intel AX200 Bluetooth is blocked,because if it is not shielded,other Bluetooth devices will not work properly.
 
 ----
 BIOS setup:

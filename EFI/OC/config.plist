@@ -333,7 +333,7 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>USBPorts.kext</string>
+				<string>USBMap.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -1795,7 +1795,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K909200QXFHDD1F</string>
+			<string>F5K9306094NFHDDJA</string>
 			<key>ProcessorType</key>
 			<integer>3842</integer>
 			<key>ROM</key>
@@ -1807,9 +1807,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KYC0BAP7QM</string>
+			<string>F5KZ48ZSP7QM</string>
 			<key>SystemUUID</key>
-			<string>20517BA5-34B6-451F-BEB2-AA79D3039C0D</string>
+			<string>C4545375-B82B-4AEC-AF8B-841434BD28E0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
