@@ -6,8 +6,13 @@ since 2021/04/25,my video card change to RX6800XT,but this EFI should also worki
 Change Log:
 
 ----
+
+2021/07/14
++ change platforminfo to iMacPro1,1.because it's easier to get a correct System Serial Number.
+----
+
 2021/07/13
-+ remap usb port to make sleep working.(must restart from windows to macos)
++ remap usb port to make sleep working.
 ----
 
 2021/07/07

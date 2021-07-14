@@ -175,7 +175,7 @@
 				<key>Comment</key>
 				<string>Video patches</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/WhateverGreen</string>
 				<key>MaxKernel</key>
@@ -1726,7 +1726,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-v</string>
+				<string>-v agdpmod=pikera</string>
 				<key>prev-lang:kbd</key>
 				<string>zh-Hans:252</string>
 			</dict>
@@ -1795,21 +1795,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K9306094NFHDDJA</string>
+			<string>C02740207CDJG36FB</string>
 			<key>ProcessorType</key>
-			<integer>3842</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>IeGL7QNB</data>
 			<key>SpoofVendor</key>
-			<true/>
+			<false/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro7,1</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KZ48ZSP7QM</string>
+			<string>C02VH020HX87</string>
 			<key>SystemUUID</key>
-			<string>C4545375-B82B-4AEC-AF8B-841434BD28E0</string>
+			<string>1C444BF1-2A73-4EB5-A0FF-6E4A0E2E3398</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
