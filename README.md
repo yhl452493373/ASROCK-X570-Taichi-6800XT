@@ -59,3 +59,5 @@ BIOS setup:
 + Disable ResizeBAR
 
 ## DO NOT UPGRADE BIOS to 4.30 or above,otherwise, the shutdown won't work.
+
+## IF YOU DID NOT USE RX5000 OR RX 6000 SERIES GPU,PLEASE REMOVE BOOT ARGUMENTS agdpmod=pikera
