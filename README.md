@@ -20,6 +20,8 @@ If you are 4 cores or 2 cores,you can try to use `04` or `02`
 
 #### Note: MacOS Monterey installation requires Misc -> Security -> SecureBootModel to be disabled in the config.Also TPM nneds to be disabled in the BIOS. Both can be enabled after install.
 
+#### Note: If you can't update macos from System Upgrade,you can try to upgrade system like new install.(when you reinstall macos,if you did not format system disk,the data will be remainded).you can download new InstallAssistant.pkg by gibMacOS.you can install the InstallAssistant.pkg and then you will get an Install macOS Big Sur application in your application folder.
+
 ----
 
 Change Log:

@@ -14,3 +14,5 @@
 注意，做此变动前，先备份config.plist文件。
 
 如果要安装macOS 12的beta版，请先将 Misc -> Security -> SecureBootModel 设为 disabled，同时将主板BIOS的TPM关闭。等安装完毕后，这两个选项可以再打开。
+
+如果你从系统偏好中更新系统出现问题，可以通过gibMacOS下载一个新版系统的InstallAssistant.pkg安装包.InstallAssistant.pkg安装后，在应用程序中会多一个 安装macOS Big Sur 安装程序，通过此安装程序制作一个USB启动盘，再重启电脑进行安装。安装时，不要对磁盘进行格式化或分区等操作，直接将安装磁盘选为已有的系统即可对系统进行升级安装。
