@@ -47,9 +47,6 @@
 /* Class = "NSWindow"; title = "VirtualSMC Detected"; ObjectID = "c22-Ac-LFY"; */
 "c22-Ac-LFY.title" = "VirtualSMC Detected";
 
-/* Class = "NSButtonCell"; title = "SMCDellSensors"; ObjectID = "dcN-Jh-fs2"; */
-"dcN-Jh-fs2.title" = "SMCDellSensors";
-
 /* Class = "NSButtonCell"; title = "Download"; ObjectID = "eiG-ge-aFx"; */
 "eiG-ge-aFx.title" = "Download";
 

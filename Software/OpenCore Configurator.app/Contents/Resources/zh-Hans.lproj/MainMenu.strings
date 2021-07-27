@@ -245,6 +245,9 @@
 /* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
 "Oyz-dy-DGm.title" = "停止朗读";
 
+/* Class = "NSMenuItem"; title = "Themes Validator"; ObjectID = "Pd1-qG-fZC"; */
+"Pd1-qG-fZC.title" = "主题验证器";
+
 /* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "Ptp-SP-VEL"; */
 "Ptp-SP-VEL.title" = "更大";
 
@@ -253,6 +256,9 @@
 
 /* Class = "NSMenuItem"; title = "SampleCustom.plist"; ObjectID = "QT1-6J-6cg"; */
 "QT1-6J-6cg.title" = "SampleCustom.plist";
+
+/* Class = "NSTextFieldCell"; title = "Set background color"; ObjectID = "Qix-AP-RAT"; */
+"Qix-AP-RAT.title" = "设定背景颜色";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "放大";

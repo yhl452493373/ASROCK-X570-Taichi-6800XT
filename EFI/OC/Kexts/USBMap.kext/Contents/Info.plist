@@ -130,7 +130,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 		</dict>
 		<key>_SB.PCI0.BXBR.BYUP.BYD8.XHC0</key>
 		<dict>
@@ -231,7 +231,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 		</dict>
 		<key>_SB.PCI0.GP13.XHC0</key>
 		<dict>
@@ -332,7 +332,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>

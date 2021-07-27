@@ -1,0 +1,16 @@
+用plist编辑器打开config.plist文件，找到3处以 algrey - Force cpuid_cores_per_package 开头的内核补丁，将 B8080000 0000/BA080000 0000/BA080000 0090 改为 B8 <内核数> 0000 0000/BA <内核数> 0000 0000/BA <内核数> 0000 0090
+
+内核数取值：
+6核心：06
+8核心：08
+12核心：0C
+16核心：10
+32核心：20
+
+以上是AMD_Vanilla项目给出的值。如果是2核心或者4核心，可以尝试下
+2核心：02
+4核心：04
+
+注意，做此变动前，先备份config.plist文件。
+
+如果要安装macOS 12的beta版，请先将 Misc -> Security -> SecureBootModel 设为 disabled，同时将主板BIOS的TPM关闭。等安装完毕后，这两个选项可以再打开。

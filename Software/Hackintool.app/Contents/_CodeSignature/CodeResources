@@ -10,15 +10,19 @@
 		</data>
 		<key>Resources/ACPI/SSDT-STAS.dsl</key>
 		<data>
-		UVjz53DVSscjopnIKRWN4sDic2I=
+		kIwth6mfkYW9CgcO972S8Vest4U=
 		</data>
 		<key>Resources/ACPI/SSDT-UIAC-ALL.dsl</key>
 		<data>
-		yipFN7aGZv9tF1do0EBZ1jQNQuQ=
+		aLGDZNIJ30wJ8Is60Zcqxep/aNo=
 		</data>
 		<key>Resources/ACPI/SSDT-USBX.dsl</key>
 		<data>
-		R4D73SZTj61BpGKK9eY3LOb7GVM=
+		l5gQUDmm5J/jx0JGsJLskmP6sG4=
+		</data>
+		<key>Resources/ACPI/SSDT-XOSI.dsl</key>
+		<data>
+		enQ7DK7AwCJ8OC3mxPbfU0sAWLg=
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
@@ -26,19 +30,19 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		sh+uQx1q+bxhYEh5B8pXvgcEqFs=
+		EHqLOhQHInBUWiGxtlMIkg3YSG0=
 		</data>
 		<key>Resources/Audio/Codecs.plist</key>
 		<data>
-		cb7HqVD3LwIHsAyGrEAS8+vVrfo=
+		1BoFIF9FdotvWMC9VU+fWRMa12c=
 		</data>
 		<key>Resources/Audio/Controllers.plist</key>
 		<data>
-		QcXHgOKnvRwq/azJYdJZS1hcB28=
+		HLjSfDFrsA8Tf3/3NISvbXbh8ds=
 		</data>
 		<key>Resources/Audio/Kexts.plist</key>
 		<data>
-		tjXivnPC/TYB4k0MAG2yKnGKDxk=
+		n34TPbHLUMswMpqnweRgGWNtywI=
 		</data>
 		<key>Resources/Audio/Vendors.plist</key>
 		<data>
@@ -62,11 +66,11 @@
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-110000.nib</key>
 		<data>
-		keypM2U5YzqQb4c/bgtHjTUEOSQ=
+		8CSDySe6Ba3N0m612Pn93O1TlHE=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
 		<data>
-		Xw1RZn7b7FIYye2lV1KJW7MoQXs=
+		QQ9oTLHAq86yMmaXJubkVVkuhtU=
 		</data>
 		<key>Resources/Clover/config_patches.plist</key>
 		<data>
@@ -122,7 +126,7 @@
 		</data>
 		<key>Resources/Framebuffer/macOS 10.13.6/PlatformIDs.plist</key>
 		<data>
-		NC4z3SodTnOHkVPvUNtsk0cUHzg=
+		K+KDtfbGsOpCHP5Lax8JVMyYeyk=
 		</data>
 		<key>Resources/Framebuffer/macOS 10.13.6/Sandy Bridge.bin</key>
 		<data>
@@ -158,7 +162,7 @@
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/PlatformIDs.plist</key>
 		<data>
-		JrrKLx5HhivcnhyAODy1Xrb1jmo=
+		EDLKKdOxFSxnCkeQlWAGjsPOVfc=
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/Skylake.bin</key>
 		<data>
@@ -444,9 +448,29 @@
 		<data>
 		iRhf6yNfUWhA+CiUNEIMMX9MrlU=
 		</data>
+		<key>Resources/Intel/SystemConfigs/ASRock/Z490M-ITX-AC[CFL].plist</key>
+		<data>
+		MHl6NklsOAqAVhI81MTAsrDd3pI=
+		</data>
 		<key>Resources/Intel/SystemConfigs/Asus/Prime H370M-Plus [CFL], Prime Z390-A [CFL], ROG Strix B360-I [CFL], TUF Z390M-Pro Gaming [CFL], Prime H370-Plus [CFL].plist</key>
 		<data>
 		5uoCY6GkFjSshlwhJizRaJkU314=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Dell/Inspiron 5491 CPU I7 10510U [CML].plist</key>
+		<data>
+		ScoeBvBlPhc0d3bwYH75E5AwUm0=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Dell/Inspiron 5584 CPU I5 8265U [CFL].plist</key>
+		<data>
+		GZnyy+W8O3pCUcYSDS75iIsbSBQ=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Generic/Intel UHD Graphics 620 [CFL].plist</key>
+		<data>
+		BUMVPs/PdUFNof9fcf6cIi6VDjE=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Generic/Intel UHD Graphics 630 [CFL].plist</key>
+		<data>
+		aTcPM1yGEKxBvQKpUnPTioum7FU=
 		</data>
 		<key>Resources/Intel/SystemConfigs/Gigabyte/B360N WiFi [CFL].plist</key>
 		<data>
@@ -498,7 +522,11 @@
 		</data>
 		<key>Resources/Intel/SystemConfigs/Gigabyte/Z390M Gaming [CFL].plist</key>
 		<data>
-		UdSoVmbLiNlsGhN7npZUV0JfQXI=
+		iz6LYnUQWbgQ4JeGcero7DryB/o=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Gigabyte/Z490M Gaming X [CFL] Bios DVMT 128.plist</key>
+		<data>
+		Lc3onII76iMCV6F9/b94m/W+ySQ=
 		</data>
 		<key>Resources/Intel/SystemConfigs/Hewlett Packard/Pavilion 590-p0066 [CFL].plist</key>
 		<data>
@@ -654,27 +682,27 @@
 		</data>
 		<key>Resources/Kexts/kexts.plist</key>
 		<data>
-		wP7X3a4+Hhi+VNP2cJPK2ukfoak=
+		2hwkp7DuU/SasQLhbMohlxbVWx0=
 		</data>
 		<key>Resources/OpenCore/config.plist</key>
 		<data>
-		PYmlkG7cwvzkNPUnrpGGJs/Nxsw=
+		H8CgZwG+ZleMgluFEnIBL/hdKBE=
 		</data>
 		<key>Resources/PCI/pci.ids</key>
 		<data>
-		1NjEBIadYKwlGI5a4MI3i4RtMK0=
+		Jfu+5clpWUO6Ppw+E7cyQw0Abx0=
 		</data>
 		<key>Resources/USB/USBInjectAll-Info.plist</key>
 		<data>
-		ezOJotsQoBevkoDmtFGqyDUbv+A=
+		BroXrhV0pCWgK4T0sPQlcQSSCUY=
 		</data>
 		<key>Resources/USB/config_patches.plist</key>
 		<data>
-		YHBpLyHex1VjKdK5XSb7TxAH+5c=
+		85GO5sDDaopys51yXr41pzVnJmo=
 		</data>
 		<key>Resources/USB/usb.ids</key>
 		<data>
-		P+iRFr0gAEvDygdtviBfxINRc7o=
+		y/Ibo4J7lN9JMJGVvLXp7+tb3mU=
 		</data>
 		<key>Resources/Utilities/iasl</key>
 		<data>
@@ -780,10 +808,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			J8tTyGGPbA8k/kZuzgDpGN33rqk=
+			55u84VQMt0aBrskNPCbZfapZDPE=
 			</data>
 			<key>requirement</key>
-			<string>identifier "org.sparkle-project.Sparkle" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Ben Baker (V2HRS7667H)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>cdhash H"3d864291d0826d586fd4809e327999e2a94aac4d" or cdhash H"e79bbce1540cb74681aec90d3c26d97daa590cf1" or cdhash H"4998e06afe4f681bebc6378fd87a4c7737edf527" or cdhash H"a083f7ea85efb0b0227419371a2e7f83909675fd"</string>
 		</dict>
 		<key>Resources/ACPI/SSDT-EC.dsl</key>
 		<dict>
@@ -800,33 +828,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UVjz53DVSscjopnIKRWN4sDic2I=
+			kIwth6mfkYW9CgcO972S8Vest4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			BZWR3ipFuH1aZQLSuODcKB/1KE3MDK9R8S/go4Q1hoI=
+			lYZEOfLPVVlye2Sd0qrXF7k+68lTzsqFQcAjtdsIg0E=
 			</data>
 		</dict>
 		<key>Resources/ACPI/SSDT-UIAC-ALL.dsl</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yipFN7aGZv9tF1do0EBZ1jQNQuQ=
+			aLGDZNIJ30wJ8Is60Zcqxep/aNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			AeTWbX0GEgpcqErMh1QzeH/sAogUasRyedgE2KpsCWc=
+			gR/mWLTqDd97EL3L8heFVv6hWtVIqJe0pALG58rrJr0=
 			</data>
 		</dict>
 		<key>Resources/ACPI/SSDT-USBX.dsl</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			R4D73SZTj61BpGKK9eY3LOb7GVM=
+			l5gQUDmm5J/jx0JGsJLskmP6sG4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8JVSZmRDLnq+sxojK0iIBGOod0HOXHvkK6uvkxJuu6o=
+			E4b9yBm1ojSBOeelMKdrP/+FXxRuaWM8m16Qc8/py9k=
+			</data>
+		</dict>
+		<key>Resources/ACPI/SSDT-XOSI.dsl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			enQ7DK7AwCJ8OC3mxPbfU0sAWLg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z6TJrLlWzDhd9R8VP9WnlXvP3eWRLicUYmTnFM6WKhM=
 			</data>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
@@ -844,44 +883,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sh+uQx1q+bxhYEh5B8pXvgcEqFs=
+			EHqLOhQHInBUWiGxtlMIkg3YSG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			j/4d6hV8wLdujGuC/RDvpkUYFxgSgoXhB2G6t8Hpp54=
+			j4lNzWiKYjOHa5ug1/TC7wuAUIVAE6k+iGjOZyc7hJs=
 			</data>
 		</dict>
 		<key>Resources/Audio/Codecs.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cb7HqVD3LwIHsAyGrEAS8+vVrfo=
+			1BoFIF9FdotvWMC9VU+fWRMa12c=
 			</data>
 			<key>hash2</key>
 			<data>
-			HhUCHad4kmvK3l4kbS8CsxdyS1ltmG9npwLdIYuuTGA=
+			WuN8RVrBLPN1Ckb/x57cjKzbQpYmqhX9PNtv4bLgbts=
 			</data>
 		</dict>
 		<key>Resources/Audio/Controllers.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QcXHgOKnvRwq/azJYdJZS1hcB28=
+			HLjSfDFrsA8Tf3/3NISvbXbh8ds=
 			</data>
 			<key>hash2</key>
 			<data>
-			4+C4LVgQUnPVf9/mU08B1jEVGe5zJeyaigmylfArB74=
+			Gquc+8i7UkNT8RFeNfmzxr1k3pmiG9ikN4hTLFf7vso=
 			</data>
 		</dict>
 		<key>Resources/Audio/Kexts.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tjXivnPC/TYB4k0MAG2yKnGKDxk=
+			n34TPbHLUMswMpqnweRgGWNtywI=
 			</data>
 			<key>hash2</key>
 			<data>
-			bfAknUB6q5UfTz2GZfqZW90G/ooCFCyInGobqMq2fU0=
+			itqFDx3ZFMHdZl/HvpN4A4z5nhHxgxtygHtoqv7YNxQ=
 			</data>
 		</dict>
 		<key>Resources/Audio/Vendors.plist</key>
@@ -943,22 +982,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			keypM2U5YzqQb4c/bgtHjTUEOSQ=
+			8CSDySe6Ba3N0m612Pn93O1TlHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			LwLLeZyKoXufOzeq17CRdlOeXEs3ISlS1MQyvAS7bbE=
+			PpfOuA/lqeHe4Pbocglz98eB/jDfPlCeigA+DWp9VBw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xw1RZn7b7FIYye2lV1KJW7MoQXs=
+			QQ9oTLHAq86yMmaXJubkVVkuhtU=
 			</data>
 			<key>hash2</key>
 			<data>
-			fn+ifXdzHJc/01s3CANLVcVZcT/rlzj6PP1npN5R2vU=
+			Ang5r2d0bC3qkWnJtr7uSfKDqnF2YkJ1O+EBbRUsDhE=
 			</data>
 		</dict>
 		<key>Resources/Clover/config_patches.plist</key>
@@ -1108,11 +1147,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NC4z3SodTnOHkVPvUNtsk0cUHzg=
+			K+KDtfbGsOpCHP5Lax8JVMyYeyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5ghI8Ku8WIp/6zxECTMgirqyNBt6On5ZElHhsUKYSDk=
+			uIz/4KgaBz6teyao66tYDgZy992Hd5s5ZGZOHdwRKBQ=
 			</data>
 		</dict>
 		<key>Resources/Framebuffer/macOS 10.13.6/Sandy Bridge.bin</key>
@@ -1207,11 +1246,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JrrKLx5HhivcnhyAODy1Xrb1jmo=
+			EDLKKdOxFSxnCkeQlWAGjsPOVfc=
 			</data>
 			<key>hash2</key>
 			<data>
-			8/yKUikWjdBGtNJYRbgzsmo3LlwzCxJWPf64ZfEF9xk=
+			5nMe4lhrCWX5s/DsWW+qbQDWUhkYuG0elNSD0cCFF2Q=
 			</data>
 		</dict>
 		<key>Resources/Framebuffer/macOS 10.14/Skylake.bin</key>
@@ -1713,6 +1752,17 @@
 			4MBQA054SfSlD5ZBSLCri8657FXrFRxjB+U9JtzeokQ=
 			</data>
 		</dict>
+		<key>Resources/Intel/SystemConfigs/ASRock/Z490M-ITX-AC[CFL].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MHl6NklsOAqAVhI81MTAsrDd3pI=
+			</data>
+			<key>hash2</key>
+			<data>
+			tp6aDWRUleW8QGGP53AGNNF6T3UbXw5uYKbFiWYYWJ0=
+			</data>
+		</dict>
 		<key>Resources/Intel/SystemConfigs/Asus/Prime H370M-Plus [CFL], Prime Z390-A [CFL], ROG Strix B360-I [CFL], TUF Z390M-Pro Gaming [CFL], Prime H370-Plus [CFL].plist</key>
 		<dict>
 			<key>hash</key>
@@ -1722,6 +1772,50 @@
 			<key>hash2</key>
 			<data>
 			raNXrd8lRIncHbJAFyFdzm8VTBXTr32dhlja9ShvGWs=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Dell/Inspiron 5491 CPU I7 10510U [CML].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ScoeBvBlPhc0d3bwYH75E5AwUm0=
+			</data>
+			<key>hash2</key>
+			<data>
+			pOLUBEY+x5rjjs2OcmR6A63vmvv3fgwJkLKnx22eYfg=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Dell/Inspiron 5584 CPU I5 8265U [CFL].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GZnyy+W8O3pCUcYSDS75iIsbSBQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			oOm8Snj/Lk68J7Gt21WpzSw7dKPPIcdhDI5Obd1lvis=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Generic/Intel UHD Graphics 620 [CFL].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BUMVPs/PdUFNof9fcf6cIi6VDjE=
+			</data>
+			<key>hash2</key>
+			<data>
+			xpKCwd2pEftbj9mPVcSe+nAhh0WZBpJQsCmeRudwHb8=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Generic/Intel UHD Graphics 630 [CFL].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aTcPM1yGEKxBvQKpUnPTioum7FU=
+			</data>
+			<key>hash2</key>
+			<data>
+			M/ryjTwULNLjvmYuNd7+sOca8fL1P9F+SxRISFrmc8o=
 			</data>
 		</dict>
 		<key>Resources/Intel/SystemConfigs/Gigabyte/B360N WiFi [CFL].plist</key>
@@ -1860,11 +1954,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UdSoVmbLiNlsGhN7npZUV0JfQXI=
+			iz6LYnUQWbgQ4JeGcero7DryB/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZNkdYnPPMxU7eoBf/lb1OfmOj6OxzUNN5PixZL62zQw=
+			T29l4gD03HpYznT0neljY+zAgpG24A6xxiSsTe1ATrs=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Gigabyte/Z490M Gaming X [CFL] Bios DVMT 128.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lc3onII76iMCV6F9/b94m/W+ySQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			7lIZGNl5mo0Zqi/JXxyE6k8d7mg7mFKzCKsq1QDpVTw=
 			</data>
 		</dict>
 		<key>Resources/Intel/SystemConfigs/Hewlett Packard/Pavilion 590-p0066 [CFL].plist</key>
@@ -2289,66 +2394,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wP7X3a4+Hhi+VNP2cJPK2ukfoak=
+			2hwkp7DuU/SasQLhbMohlxbVWx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			V9rrz2R3ixSll2pGbhvyx9pG1laHde/35w4nK0rRk8w=
+			f7z3OfMDUidSOdO5UVSBCaXdgy7eiCG9LE87PctGHWI=
 			</data>
 		</dict>
 		<key>Resources/OpenCore/config.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PYmlkG7cwvzkNPUnrpGGJs/Nxsw=
+			H8CgZwG+ZleMgluFEnIBL/hdKBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			XmcwWAIvNwHOvsDPLtkI5SghgLGym8IWUGpoOqfZPag=
+			s44xL7sV4swXjEa1kbctFs/V6gUIiLVKM8544XXu5BM=
 			</data>
 		</dict>
 		<key>Resources/PCI/pci.ids</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1NjEBIadYKwlGI5a4MI3i4RtMK0=
+			Jfu+5clpWUO6Ppw+E7cyQw0Abx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Dpk6EoIpooeSJYjztubq32LIJOjEOtQ/5ezvsBumRjg=
+			Zxmy9R4+0r8wVwrp5t/FASRzl5lbw5LYnKFp0NHNzyk=
 			</data>
 		</dict>
 		<key>Resources/USB/USBInjectAll-Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ezOJotsQoBevkoDmtFGqyDUbv+A=
+			BroXrhV0pCWgK4T0sPQlcQSSCUY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ISuN7Q2k/0TaISTCG4oEamgHW7UCckQuWoMtcIbwmug=
+			EN6Up0wBrAz+xgCUS9Phe/tNObf/7MCFYDjl1xDfpgM=
 			</data>
 		</dict>
 		<key>Resources/USB/config_patches.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YHBpLyHex1VjKdK5XSb7TxAH+5c=
+			85GO5sDDaopys51yXr41pzVnJmo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ozTQ9sKgkQMGimDXlikGP/GUIGM3eLhsF8x24HX49fI=
+			Syl9kJA1PCgr4d6ttIpC98P49OPcmTwquagU0+gypjs=
 			</data>
 		</dict>
 		<key>Resources/USB/usb.ids</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P+iRFr0gAEvDygdtviBfxINRc7o=
+			y/Ibo4J7lN9JMJGVvLXp7+tb3mU=
 			</data>
 			<key>hash2</key>
 			<data>
-			X2QtJw2QDWqTFHpCKqrHaTDhfdqV6yMjKJCouffPlX4=
+			TinR+BXjcs97gLZsvpo4GXGXwjPuC5M0NLO3c6G0AXI=
 			</data>
 		</dict>
 		<key>Resources/Utilities/iasl</key>

@@ -98,9 +98,6 @@
 /* Class = "NSButtonCell"; title = "UseRawUuidEncoding"; ObjectID = "JEw-8f-crY"; */
 "JEw-8f-crY.title" = "UseRawUuidEncoding";
 
-/* Class = "NSButtonCell"; title = "AdviseWindows"; ObjectID = "Jk7-vn-L68"; */
-"Jk7-vn-L68.title" = "AdviseWindows";
-
 /* Class = "NSTextFieldCell"; title = "System Serial Number"; ObjectID = "K3Y-PC-Vyv"; */
 "K3Y-PC-Vyv.title" = "System Serial Number";
 
@@ -130,6 +127,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Features"; ObjectID = "Ntb-g0-8oU"; */
 "Ntb-g0-8oU.title" = "Features";
+
+/* Class = "NSButtonCell"; title = "AdviseFeatures"; ObjectID = "O78-Bj-Rgn"; */
+"O78-Bj-Rgn.title" = "AdviseFeatures";
 
 /* Class = "NSTextFieldCell"; title = "FormFactor"; ObjectID = "OTt-Ne-MaI"; */
 "OTt-Ne-MaI.title" = "FormFactor";

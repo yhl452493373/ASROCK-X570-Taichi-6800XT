@@ -1,10 +1,34 @@
 # OpenCore EFI for ASRock x570 Taichi and AMD RX 6800XT hackintosh
 
----
-since 2021/04/25,my video card change to RX6800XT,but this EFI should also working with other video card,such as Radeon VII,5700XT,RX 580
+### Since 2021/04/25,my video card change to RX6800XT,but this EFI should also working with other video card,such as Radeon VII,5700XT,RX 580
+
+#### Since 2021/07/27,AMD_Vanilla changed patch method.You need to find the three algrey - Force cpuid_cores_per_package patches and alter the Replace value only.
+
+#### Changing B8000000 0000/BA000000 0000/BA000000 0090 to B8 <CoreCount> 0000 0000/BA <CoreCount> 0000 0000/BA <CoreCount> 0000 0090 substituting <CoreCount> with the hexideciamal value matching your physical core count. 
+
+### See the table below for the values matching your CPU Core Count.
+
+| CoreCount | Hexidecimal|
+|--------|---------|
+|   6 Core  | `06` |
+|   8 Core  | `08` |
+|   12 Core | `0C` |
+|   16 Core | `10` |
+|   32 Core | `20` |
+
+If you are 4 cores or 2 cores,you can try to use `04` or `02`
+
+#### Note: MacOS Monterey installation requires Misc -> Security -> SecureBootModel to be disabled in the config.Also TPM nneds to be disabled in the BIOS. Both can be enabled after install.
+
+----
 
 Change Log:
 
+----
+
+2021/07/27
++ change platforminfo to MacPro7,1...
++ change kernel patch method.Please visit https://github.com/AMD-OSX/AMD_Vanilla to get help
 ----
 
 2021/07/14
