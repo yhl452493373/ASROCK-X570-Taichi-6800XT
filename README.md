@@ -28,6 +28,11 @@ Change Log:
 
 ----
 
+2021/07/28
++ fixed sleep(maybe)
+
+----
+
 2021/07/27
 + change platforminfo to MacPro7,1...
 + change kernel patch method.Please visit https://github.com/AMD-OSX/AMD_Vanilla to get help
