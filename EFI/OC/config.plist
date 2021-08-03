@@ -338,13 +338,13 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>AppleMCEReporterDisabler.kext</string>
+				<string>HoRNDIS.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string></string>
+				<string>Contents/MacOS/HoRNDIS</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -381,6 +381,24 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/NVMeFix</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>AppleMCEReporterDisabler.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -1248,7 +1266,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K944609GUFHDDAD</string>
+			<string>F5K906405GUFHDDCB</string>
 			<key>ProcessorType</key>
 			<integer>3842</integer>
 			<key>ROM</key>
@@ -1260,9 +1278,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KZMSZNP7QM</string>
+			<string>F5KY7EZSP7QM</string>
 			<key>SystemUUID</key>
-			<string>3742C1B0-15A9-4F3A-897E-036CBDF61063</string>
+			<string>961FFBCF-6CEE-4F99-9DDD-50A730B2A57A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1297,6 +1315,8 @@
 			<key>AppleEvent</key>
 			<string>Auto</string>
 			<key>CustomDelays</key>
+			<false/>
+			<key>GraphicsInputMirroring</key>
 			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>50</integer>

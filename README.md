@@ -28,6 +28,12 @@ Change Log:
 
 ----
 
+2021/08/03
++ update kext and oc to newest
++ support android's USB share network
+
+----
+
 2021/07/28
 + fixed sleep(maybe)
 
