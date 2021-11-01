@@ -1,3 +1,5 @@
+# 2021-11-11 我的主机已经拆卖，因此这个EFI不再更新
+
 # OpenCore EFI for ASRock x570 Taichi and AMD RX 6800XT hackintosh
 
 ### Since 2021/04/25,my video card change to RX6800XT,but this EFI should also working with other video card,such as Radeon VII,5700XT,RX 580
